@@ -1,3 +1,7 @@
+'''
+This script extracts the worked examples from book files.
+The titles are added to the dictionary with the appropriate number.
+'''
 import os
 from lxml import etree
 
@@ -27,4 +31,6 @@ for file_name in os.listdir(path):
         wex_counter += 1  # increment the counter
         # rinse and repeat
 
-print wex_dictionary
+# write the contents of the dictionary
+with open('gr12-science-wexes.txt', 'w') as file:
+    file.write(str(wex_dictionary))

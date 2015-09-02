@@ -50,13 +50,8 @@ for file_name in os.listdir(path):
             subsection_list.append('sc{}'.format(shortcode.text))
             subsection_counter += 1
 
-#print chapter_list
-#print '---'
-#print section_dictionary
-#print '---'
-#print subsection_list
-
-with open('test.txt', 'w') as file:
+# write the contents of each dictionary and list to a file
+with open('gr12-science-toc.txt', 'w') as file:
     file.write(str(chapter_list))
     file.write('\n')
     file.write(str(section_dictionary))
