@@ -1,0 +1,176 @@
+1 'Vektore in twee dimensies'
+    1.1 'Inleiding' ESE2
+    1.2 'Resultante van loodregte vektore' ESE3
+        'Vektore op die Cartesiese vlak' ESE4
+        'Kompasrigtings' ESE5
+        'Peilings' ESE6
+        'Die resulterende vektor' ESE7
+        'Grootte van die resultant van vektore teen regte hoek' ESE8
+        'Grafiese metodes' ESE9
+        'Algebraïese metodes' ESEB
+    1.3 'Komponente van vektore' ESEC
+        'Opstelling van vektore deur middel van hul komponente' ESED
+    1.4 'Opsomming' ESEF
+2 'Newton se wette'
+    2.1 'Inleiding' ESEG
+    2.2 'Krag' ESEH
+        'Wat is 'n krag?' ESEJ
+        'Verskillende soorte kragte in fisika' ESEK
+        'Kragtediagramme' ESEM
+        'Vryeliggaamdiagramme' ESEN
+        'Ontbinding van kragte in komponente' ESEP
+        'Bepaal die resultante krag' ESEQ
+    2.3 'Newton se wette' ESER
+        'Newton se eerste wet' ESES
+        'Newton se tweede wet van beweging' ESET
+        'Newton se derde bewegingswet' ESEV
+        'Kragte in ewewig' ESEW
+    2.4 'Kragte tussen massas' ESEX
+        'Newton se universele gravitasiewet' ESEY
+        'Gewig en massa' ESEZ
+        'Vergelykende probleme' ESE32
+    2.5 'Opsomming' ESE33
+3 'Atomiese kombinasies'
+    3.1 'Chemiese binding' ESE34
+        'Waarom verbind atome' ESE35
+        'Energie en binding' ESE36
+        'Valenselektrone en Lewis diagramme' ESE37
+        'Kovalente bindings en die vorming van verbindings' ESE38
+    3.2 'Molekulêre vorm' ESE39
+        'Valensieskilelektronpaarafstotingsteorie (VSEPA)' ESE3B
+        'Die bepaling van molekulêre vorm' ESE3C
+    3.3 'Electronegatiwiteit' ESE3D
+        'Electronegatiwiteit en verbindings' ESE3F
+        'Nie-polêre en polêre kovalente bindings' ESE3G
+        'Polêre molekules' ESE3H
+    3.4 'Energie en binding' ESE3J
+    3.5 'Opsomming' ESE3K
+4 'Intermolekulêre kragte'
+    4.1 'Intermolekulêre en interatomiese kragte' ESE3M
+        'Tipes intermolekulêre kragte' ESE3N
+        'Die verskil tussen intermolekulêre en interatomiese kragte' ESE3P
+        'Om intermolekulêre kragte te kan verstaan' ESE3Q
+    4.2 'Die chemie van water' ESE3R
+        'Die mikropiese struktuur van water' ESE3S
+        'Die unieke eienskappe van water' ESE3T
+    4.3 'Opsomming' ESE3V
+5 'Geometriese Optika'
+    5.1 'Opsomming van eienskappe van lig' ESE3W
+    5.2 'Ligstrale' ESE3X
+        'Straaldiagramme' ESE3Y
+    5.3 'Eienskappe van lig: hersiening' ESE3Z
+        'Weerskaatsing' ESE42
+    5.4 'Die spoed van lig' ESE43
+    5.5 'Ligbreking (refraksie)' ESE44
+        'Brekingsindeks' ESE45
+        'Optiese digtheid' ESE46
+        'Voorstelling van breking met straaldiagramme' ESE47
+    5.6 'Snell se wet' ESE48
+    5.7 'Grenshoeke en totale interne weerkaatsing' ESE49
+        'Totale interne weerkaatsing' ESE4B
+    5.8 'Opsomming' ESE4C
+6 'Twee- en driedimensionele golffronte'
+    6.1 'Inleiding' ESE4D
+    6.2 'Golffronte' ESE4F
+    6.3 'Huygens se beginsel' ESE4G
+    6.4 'Diffraksie' ESE4H
+    6.5 'Diffraksie deur 'n enkelspleet' ESE4J
+        'Diffraksiepatrone' ESE4K
+        'Die effek van spleetwydte en golflengte op diffraksiepatrone' ESE4M
+        'Golfgeaardheid vna lig' ESE4N
+        'Bereken maksima en minima [NIE IN CAPS NIE]' ESE4P
+    6.6 'Opsomming' ESE4Q
+7 'Ideale gasse'
+    7.1 'Beweging van deeltjies' ESE4R
+        'Die kinetiese gasteorie' ESE4S
+        'Gedrag van ideale en nie-ideale gasse' ESE4T
+    7.2 'Ideala gaswette' ESE4V
+        'Boyle se wet: Druk en volume van 'n ingeslote gas' ESE4W
+        'Charles se wet: Volume en temperatuur van 'n ingeslote gas' ESE4X
+        'Druk-temperatuur verwantskap' ESE4Y
+        'Die algemene gasvergelyking' ESE4Z
+        'Die ideale gasvergelyking' ESE52
+    7.3 'Opsomming' ESE53
+8 'Kwatitatiewe aspekte van chemiese verandering'
+    8.1 "Gasse en oplossings" ESE54
+        'Molêre volumes van gasse' ESE55
+        'Reaksies en gasse' ESE56
+        'Oplossings' ESE57
+    8.2 'Stoïchiometriese berekeninge' ESE58
+        'Beperkende reagense' ESE59
+        'Persentasie opbrengs' ESE5B
+        'Molekulêre en empiriese formules' ESE5C
+        'Persentasie suiwerheid' ESE5D
+    8.3 'Volume verhoudings in gasagtige reaksies' ESE5F
+    8.4 'Opsomming' ESE5G
+9 'Elektrostatika'
+    9.1 'Inleiding' ESE5H
+    9.2 'Coulomb se wet' ESE5J
+    9.3 'Elektriese veld' ESE5K
+        'Die voorstelling van elektriese velde' ESE5M
+        'Elektriese velde rondome verskillende ladingskonfigurasies' ESE5N
+        'Elektriese veldsterkte' ESE5P
+    9.4 'Opsomming' ESE5Q
+10 'Elektromagnetisme'
+    10.1 'Inleiding' ESE5R
+    10.2 'Magneetveld wat met 'n stroom geassosieer word' ESE5S
+        'Magneetveld om 'n reguit draad' ESE5T
+        'Magnetiese veld om 'n stroomdraende lus' ESE5V
+        'Magnetiese veld om 'n solenoïd' ESE5W
+        'Regte wêreld toepassings' ESE5X
+    10.3 'Faraday se wet vir elektromagnetiese induksie' ESE5Y
+        'Stroom geïnduseer deur 'n veranderende magneetveld' ESE5Z
+        'Rigting van geïnduseerde stroom' ESE62
+        'Rigting van 'n geïnduseerde stroom in 'n solenoïd' ESE63
+    10.4 'Opsomming' ESE64
+11 'Elektriese stroombane'
+    11.1 'Inleiding' ESE65
+    11.2 'Ohm se wet' ESE66
+        'Ohmiese en nie-ohmiese geleiers' ESE67
+        'Toepassing van Ohm se wet' ESE68
+        'Hersiening van resistors in series en parallel' ESE69
+        'Toepassing van Ohm se wet in serie- en parallelstroombane' ESE6B
+        'Serie- en parallelnetwerke van resistors' ESE6C
+    11.3 'Drywing en energie' ESE6D
+        'Elektriese drywing' ESE6F
+        'Elektriese energie' ESE6G
+    11.4 'Opsomming' ESE6H
+12 'Energie en chemiese verandering'
+    12.1 'Chemiese verandering tydens chemiese reaksies' ESE6J
+        'Wat veroorsaak die energieveranderinge in chemiese reaksies?' ESE6K
+        'Eksotermiese en endotermiese reaksies' ESE6M
+        'Voorbeelde van endotermiese en eksotermiese reaksies' ESE6N
+    12.2 'Eksotermiese en endotermiese reaksies' ESE6P
+        'Die reaksiewarmte' ESE6Q
+    12.3 'Aktiveringsenergie en die geaktiveerde kompleks' ESE6R
+    12.4 'Opsomming' ESE6S
+13 'Reaksietipes'
+    13.1 'Sure en basisse' ESE6T
+        'Wat is sure en basisse?' ESE6V
+        'Definisie van sure en basisse' ESE6W
+        'Gekonjugeerde suur-basispare' ESE6X
+    13.2 'Suur-basis reaksies' ESE6Y
+        'Suur en metaalhidroksied' ESE6Z
+        'Suur en metaaloksied' ESE72
+        'Suur en metaalkarbonaat' ESE73
+    13.3 'Redoksreaksies' ESE74
+        'Oksidasiegetalle' ESE75
+        'Redoksreaksies' ESE76
+    13.4 'Opsomming' ESE77
+14 'Die litosfeer'
+    14.1 'Inleiding' ESE78
+    14.2 'Die litosfeer' ESE79
+        'Geskiedenis van die mensdom' ESE7B
+        'Elemente en minerale' ESE7C
+    14.3 'Die mynbedryf en mineraal verwerking' ESE7D
+        'Verkenning' ESE7F
+        'Die verkrying van erts' ESE7G
+        'Mineraalwinning' ESE7H
+        'Goudontginning' ESE7J
+        'Die ontginning van goud' ESE7K
+        'Die verwerking van gouderts' ESE7M
+        'Eienskappe en gebruike van goud' ESE7N
+        'Mynbou en die omgewing' ESE7P
+        'Ander minerale' ESE7Q
+    14.4 'Energiebronne' ESE7R
+    14.5 'Opsomming' ESE7S

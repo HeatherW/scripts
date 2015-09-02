@@ -1,0 +1,270 @@
+0 Inleiding tot Lewenswetenskappe
+    0.1 "Lewenswetenskappe Oriëntasie" ESHJ
+        "Inleiding" ESHK
+        "Wat is Lewenswetenskappe?" ESHM
+        "Waarom Lewenswetenskappe bestudeer?" ESHN
+        "Spesifieke doelwitte" ESHP
+        "'n A tot Z van moontlike beroepe in Lewenswetenskappe" ESHQ
+    0.2 "Die Wetenskaplike Metode" ESHR
+        "Hoe wetenskap funksioneer" ESHS
+        "1. Die vraag" ESHT
+        "2. Inleiding" ESHV
+        "3. Identifiseer veranderlikes" ESHW
+        "4. Hipotese" ESHX
+        "5. Doel" ESHY
+        "6. Apparaat" ESHZ
+        "7. Metode" ESH32
+        "8. Resultate" ESH33
+        "9. Analise van resultate of bespreking" ESH34
+        "10. Evalueer die resultate" ESH35
+        "11. Gevolgtrekking" ESH36
+    0.3 "Belangrike beginsels en verhoudings in Lewenswetenskappe" ESH37
+        "Oppervlak-area en volume" ESH38
+        "Struktuur en funksie" ESH39
+    0.4 "Voorstelling van data" ESH3B
+        "Biologiese tekeninge en diagramme" ESH3C
+        "Twee-dimesnionele (2-D) en drie-dimesnionele (3-D) diagramme" ESH3D
+        "Tabelle" ESH3F
+        "Soorte Grafieke" ESH3G
+        "Lyngrafieke" ESH3H
+        "Staaf-grafieke / Kolomgrafieke" ESH3J
+        "Histogramme" ESH3K
+        "Sirkelgrafiek" ESH3M
+    0.5 "Wiskundige vaardighede in Lewenswetenskappe" ESH3N
+        "Skale" ESH3P
+        "Gemiddeldes" ESH3Q
+        "Persentasies" ESH3R
+        "Omskakelings" ESH3S
+    0.6 "Laboratorium veiligheids-prosedures" ESH3T
+1 "Die chemie van die lewe"
+    1.1 "Oorsig" ESH3V
+        "Inleiding" ESH3W
+    1.2 "Molekules vir lewe" ESH3X
+    1.3 "Anorganiese verbindings" ESH3Y
+        "Die rol van water in die handhawing van lewe" ESH3Z
+        "Minerale" ESH42
+        "Kunsmisstowwe" ESH43
+    1.4 "Organiese verbindings" ESH44
+        "Koolhidrate" ESH45
+        "Lipiede" ESH46
+        "Proteïene" ESH47
+        "Ensieme" ESH48
+        "Nukleïensure" ESH49
+        "Vitamiene" ESH4B
+        "Aanbevole Dieet Toelae" ESH4C
+    1.5 "Opsomming" ESH4D
+2 "Selle: die basiese eenhede van lewe"
+    2.1 "Oorsig" ESH4F
+        "Inleiding" ESH4G
+    2.2 "Molekulêre samestelling van selle" ESH4H
+        "Mikroskopie" ESH4J
+        "Berekening van vergroting" ESH4K
+    2.3 "Selstruktuur en funksie" ESH4M
+            "Selteorie" ESH4N
+            "Selwand" ESH4P
+            "Selmembraan" ESH4Q
+            "Beweging oor membrane" ESH4R
+        2.4 "Selorganelle" ESH4S
+            "Nukleus" ESH4V
+            "Mitochondria" ESH4W
+            "Endoplasmiese retikulum" ESH4X
+            "Ribosome" ESH4Y
+            "Golgi-liggaampie" ESH4Z
+            "Vesikels en lisosome" ESH52
+            "Vakuole" ESH53
+            "Sentriole" ESH54
+            "Plastiede" ESH55
+            "Die verskille tussen plant- en dierselle" ESH56
+        2.5 "Samevatting" ESH57
+3 "Seldeling"
+    3.1 "Oorsig" ESH59
+        "Inleiding" ESH5B
+    3.2 "Die selsiklus" ESH5C
+        "Interfase" ESH5D
+        "Verdelingsfase" ESH5F
+    3.3 "Die rol van mitose" ESH5G
+    3.4 "Kanker" ESH5H
+        "Inleiding" ESH5J
+        "Oorsake van kanker" ESH5K
+        "Sienings en houdings ten opsigte van kanker" ESH5M
+        "Kankerbehandeling" ESH5N
+        "Konvensionele metodes" ESH5P
+        "Inheemse metodes" ESH5Q
+        "Voorkoming van kanker" ESH5R
+    3.5 "Opsomming" ESH5S
+4 "Plant en dierweefsels"
+    4.1 "Oorsig" ESH5V
+        "Inleiding" ESH5W
+    4.2 "Weefsels" ESH5X
+    4.3 "Plantweefsels" ESH5Y
+        "Meristematiese weefsel" ESH5Z
+        "Permanente weefsels" ESH62
+        "Epidermale weefsel" ESH63
+        "Sluitselle en stomata" ESH64
+        "Parenchiemweefsel" ESH65
+        "Kollenchiemweefsel" ESH66
+        "Sklerenchiemweefsel" ESH67
+        "Xileemweefsel" ESH68
+        "Floëemweefsel" ESH69
+    4.4 "Dierweefsels" ESH6B
+        "Epiteelweefsel" ESH6C
+        "Spierweefsel" ESH6D
+        "Senuweefsel" ESH6F
+        "Bindweefsel" ESH6G
+        "Bloed" ESH6H
+    4.5 "Toepassing van inheemse kennis en biotegnologie" ESH6J
+        "Tradisionele medisyne" ESH6K
+        "Moderne biotegnologie" ESH6M
+        "1.  Immuniteit en entstowwe"
+        ESH6N
+        "2. Antibiotika" ESH6P
+        "3. Bloedoortappings" ESH6Q
+        "4.  Kloning" ESH6R
+        "5. Stamselnavorsing" ESH6S
+        "Etiese kwessies en wetgewing" ESH6T
+        "Wetgewing rondom stamselnavorsing" ESH6V
+        "Potensiële toepassings vir gekloonde diere" ESH6W
+        "Etiese biotegnologie" ESH6X
+    4.6 "Die blaar as 'n orgaan" ESH6Y
+        "Blaarstruktuur" ESH6Z
+        "Vervoer stowwe in en uit die blaar" ESH72
+    4.7 "Opsomming" ESH73
+5 "Ondersteuning- en vervoerstelsels by plante"
+    5.1 "Oorsig" ESH74
+        "Inleiding" ESH75
+    5.2 "Anatomie van dikotiele/ tweesaadlobbige plante" ESH76
+        "Verskille tussen monokotiele/ eensaadlobbiges en dikotiele/ tweesaadlobbiges" ESH77
+        "Wortelanatomie" ESH78
+        "Stingel-anatomie" ESH79
+        "Sekondêre groei" ESH7B
+    5.3 "Transpirasie" ESH7C
+        "Faktore wat die  transpirasietempo beïnvloed" ESH7D
+        "Meting van transpirasietempo" ESH7F
+        "Strukturele aanpassings van plante om transpirasietempo te verminder" ESH7G
+        "Verwelking en guttasie" ESH7H
+        "Verwelking" ESH7J
+        "Guttasie" ESH7K
+    5.4 "Opname van water en minerale soute deur die wortels" ESH7M
+        "Beweging van water deur 'n dikotiele wortel" ESH7N
+        "Vervoer van water en minerale na die blare" ESH7P
+        "Die vervoer van vervaardigde voedsel" ESH7Q
+    5.5 "Opsomming" ESH7R
+6 "Ondersteuningstelsels by diere"
+    6.1 "Oorsig" ESH7S
+        "Inleiding" ESH7T
+    6.2 "Skelette" ESH7V
+        "Die evolusionêre ontwikkeling van die skelet" ESH7W
+        "Hidrostatiese skelet" ESH7X
+        "Eksoskelet" ESH7Y
+        "Endoskelet" ESH7Z
+    6.3 "Menslike skelet" ESH82
+        "Aksiaalskelet/Asskelet" ESH83
+        "Appendikulêre skelet/Aanhangskelet" ESH84
+        "Funksies van die skelet" ESH85
+        "Struktuur van 'n langbeen" ESH86
+    6.4 "Muskulo-skeletale weefsels" ESH87
+        "Bene" ESH88
+        "Kraakbeen" ESH89
+        "Gewrigte" ESH8B
+        "Tendons en ligamente" ESH8C
+        "Antagonistiese spiere" ESH8D
+        "Menslike beweging" ESH8F
+    6.5 "Spier-struktuur en funksie" ESH8G
+    6.6 "Siekte-toestande" ESH8H
+        "Ragitis " ESH8J
+        "Osteoporose" ESH8K
+        "Artritis" ESH8M
+    6.7 "Opsomming" ESH8N
+7 "Vervoerstelsels by diere"
+    7.1 "Oorsig" ESH8P
+        "Inleiding" ESH8Q
+    7.2 "Sirkulasiestelsels by diere" ESH8R
+        "Oop en geslote sirkulasiestelsels" ESH8S
+        "Enkel- en dubbel sirkulasiestelsels" ESH8T
+        "Menslike sirkulasiestelsels" ESH8V
+        "Die hart en gepaardgaande bloedvate" ESH8W
+        "Hooforgane en sistemiese sirkulasie" ESH8X
+        "Die kardiale siklus" ESH8Y
+        "Bloedvate" ESH8Z
+        "Vergelyking tussen arterieë, venes en kapillêres." ESH92
+    7.3 "Limf-sirkulasie-stelsel" ESH93
+        "Samestelling van die limfstelsel" ESH94
+        "Funksies van die limfstelsel" ESH95
+    7.4 "Kardiovaskulêre siektes" ESH96
+        "Hartaanval" ESH97
+        "Hipertensie" ESH98
+        "Hipotensie" ESH99
+        "Beroerte" ESH9B
+        "Aneurisme" ESH9C
+    7.5 "Behandeling van hartsiektes" ESH9D
+        "Stente" ESH9F
+        "Pasaangeër" ESH9G
+        "Klepvervanging" ESH9H
+        "Koronêre Omleining-sjirurgie" ESH9J
+        "Hartoorplanting" ESH9K
+    7.5 "Opsomming" ESH9M
+8 "Biosfeer tot ekosisteme"
+    8.1 "Oorsig" ESH9N
+        "Inleiding" ESH9P
+    8.2 "Biosfeer" ESH9Q
+    8.3 "Biome" ESH9R
+        "Akwatiese biome" ESH9S
+        "Terrestriële biome" ESH9T
+        "Suid-Afrikaanse Biome" ESH9V
+    8.4 "Omgewing" ESH9W
+    8.5 "Ekosisteme" ESH9X
+        "Biotiese komponente" ESH9Y
+        "Abiotiese komponente" ESH9Z
+    8.6 "Energievloei" ESHB2
+        "Voedselketting" ESHB3
+        "Voedselpiramide" ESHB4
+        "Voedselwebbe" ESHB5
+    8.7 "Voedingstofkringlope" ESHB6
+        "waterkringloop" ESHB7
+        "Suurstofkringloop" ESHB8
+        "Koolstofkringloop" ESHB9
+        "Stikstofkringloop" ESHBB
+    8.8 "Ekotoerisme" ESHBC
+        "Die bekoring om deur Suid-Afrika te toer" ESHBD
+        "Hoe om 'n verantwoordelike toeris te wees" ESHBF
+    8.9 "Opsomming" ESHBG
+9 "Biodiversiteit en klassifikasie"
+    9.1 "Oorsig" ESHBH
+        "Inleiding" ESHBJ
+    9.2 "Biodiversiteit" ESHBK
+    9.3 "Klassifikasie-skemas" ESHBM
+        "Klassifikasie" ESBHN
+        "Geskiedenis van klassifikasie" ESHBP
+        "Binomiale Nomenklatuur" ESHBQ
+        "Prokariote en Eukariote" ESHBR
+    9.4 "Vyf-koninkryk-stelsel" ESBHS
+        "Koninkryk Monera" ESHBT
+        "Koninkryk Protista" ESHBV
+        "Koninkryk Fungi" ESHBW
+        "Koninkryk Plantae" ESHBX
+        "Koninkryk Animalia" ESHBY
+        "Digotome Sleutel" ESHBZ
+    9.5 "Opsomming" ESHC2
+10 "Geskiedenis van Lewe op Aarde"
+    10.1 "Oorsig" ESCH3
+        "Inleiding" ESHC4
+    10.2 "Voorstellings van die geskiedenis van lewe" ESHC5
+        "Geologiese tydskaal" ESHC6
+        "Kontinent-skuiwing" ESHC7
+        "Natuurlike seleksie" ESHC8
+        "Fossiel-vorming" ESHC9
+        "Metodes van fossiel-datering" ESHCB
+        "Deduktiewe redenering / inferensie om die verlede te verstaan" ESHCC
+    10.3 "Die Geskiedenis van Lewe" ESHCD
+        "Pre-Kambriese Era" ESCHF
+        "Kambriese ontploffing" ESHCG
+        "Paleosoïkum-era (542 tot 251 miljoen jaar gelede)" ESHCH
+        "Mesosoïkum (251-72 miljoen jaar gelede)" ESHCJ
+        "Senosoïkum-era (65 miljoen jaar gelede tot vandag)" ESHCK
+        "Die evolusie van Homo sapiens: bewyse uit Afrika" ESHCM
+    10.4 "Massa-uitwissings" ESHCN
+        "Voortgesette sesde massa-uitwissing" ESHCP
+        "Oorsake van massa-uitwissings" ESHCQ
+    10.5 "Menslike impak op biodiversiteit en die omgewing" ESHCR
+    10.6 "Fossieltoerisme" ESHCS
+    10.7 "Opsomming" ESHCT

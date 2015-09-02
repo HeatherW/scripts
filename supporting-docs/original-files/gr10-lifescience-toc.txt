@@ -1,0 +1,270 @@
+0 "Introduction to Life Sciences" 
+    0.1 "Life Sciences Orientation" ESGQ
+        "Introduction" ESGR
+        "What is Life Sciences?" ESGS
+        "Why study Life Sciences?" ESGT
+        "Specific aims" ESGV
+        "An A to Z of possible careers in Life Sciences" ESGW
+    0.2 "The Scientific Method" ESGX
+        "How science works" ESGY
+        "1. The question" ESGZ
+        "2. Introduction" ESG32
+        "3. Identify variables" ESG33
+        "4. Hypothesis" ESG34
+        "5. Aim" ESG35
+        "6. Apparatus" ESG36
+        "7. Method" ESG37
+        "8. Results" ESG38
+        "9. Analysis of results or discussion" ESG39
+        "10. Evaluation of results" ESG3B
+        "11. Conclusion" ESG3C
+    0.3 "Important principles and relationships in Life Sciences" ESG3D
+        "Surface area and volume" ESG3F
+        "Structure and function" ESG3G
+    0.4 "Presenting data" ESG3H
+        "Biological drawings and diagrams" ESG3J
+        "Two-dimensional (2-D) and three-dimensional (3-D) diagrams" ESG3K
+        "Tables" ESG3M
+        "Types of Graphs" ESG3N
+        "Line Graphs" ESG3P
+        "Bar Graphs" ESG3Q
+        "Histograms" ESG3R
+        "Pie charts" "ESG3S"
+    0.5 "Mathematical skills in Life Sciences" ESG3T
+        "Scales" ESG3V
+        "Averages" ESG3W
+        "Percentages" ESG3X
+        "Conversions" ESG3Y
+    0.6 "Lab safety procedures" ESG3Z
+1 "The chemistry of life"
+    1.1 "Overview" ESG42
+        "Introduction" ESG43
+    1.2 "Molecules for life" ESG44
+    1.3 "Inorganic compounds" ESG45
+        "The role of water in the maintenance of life" ESG46
+        "Minerals" ESG47
+        "Fertilisers" ESG48
+    1.4 "Organic compounds" ESG49
+        "Carbohydrates" ESG4B
+        "Lipids" ESG4C
+        "Proteins" ESG4D
+        "Enzymes" ESG4F
+        "Nucleic acids" ESG4G
+        "Vitamins" ESG4H
+        "Recommended Dietary Allowance" ESG4J
+    1.5 "Summary" ESG4K
+2 "Cells: The basic units of life"
+    2.1 "Overview" ESG4M
+        "Introduction" ESG4N
+    2.2 "Molecular make up of cells" ESG4P
+        "Microscopy" ESG4Q
+        "Calculating magnification" ESG4R
+    2.3 "Cell structure and function" ESG4S
+        "Cell theory" ESG4T
+        "Cell wall" ESG4V
+        "Cell membrane" ESG4W
+        "Movement across membranes" ESG4X
+    2.4 "Cell organelles" ESG4Y
+        "Cytoplasm" ESG4Z
+        "Nucleus" ESG52
+        "Mitochondria" ESG53
+        "Endoplasmic reticulum" ESG54
+        "Ribosomes" ESG55
+        "Golgi body" ESG56
+        "Vesicles and lysosomes" ESG57
+        "Vacuoles" ESG58
+        "Centrioles" ESG59
+        "Plastids" ESG5B
+        "The differences between plant and animal cells" ESG5C
+    2.5 "Summary" ESG5D
+3 "Cell division"
+    3.1 "Overview" ESG5G
+        "Introduction" ESG5H
+    3.2 "The cell cycle" ESG5J
+        "Interphase" ESG5K
+        "Mitotic phase" ESG5M
+    3.3 "The role of mitosis" ESG5N
+    3.4 "Cancer" ESG5P
+        "Introduction" ESG5Q
+        "Causes of cancer" ESG5R
+        "Beliefs and attitudes concerning cancer" ESG5S
+        "Cancer treatment" ESG5T
+        "Conventional methods" ESG5V
+        "Indigenous methods" ESG5W
+        "Prevention of cancer" ESG5X
+    3.5 "Summary" ESG5Y
+4 "Plant and animal tissues"
+    4.1 "Overview" ESG62
+        "Introduction" ESG63
+    4.2 "Tissues" ESG64
+    4.3 "Plant tissues" ESG65
+        "Meristematic tissue" ESG66
+        "Permanent tissues" ESG67
+        "Epidermis tissue" ESG68
+        "Guard cells and Stomata" ESG69
+        "Parenchyma tissue" ESG6B
+        "Collenchyma tissue" ESG6C
+        "Sclerenchyma tissue" ESG6D
+        "Xylem tissue" ESG6F
+        "Phloem tissue" ESG6G
+    4.4 "Animal tissues" ESG6H
+        "Epithelial tissue" ESG6J
+        "Muscle tissue" ESG6K
+        "Nervous tissue" ESG6M
+        "Connective tissue" ESG6N
+        "Blood" ESG6P
+    4.5 "Applications of indigenous knowledge and biotechnology" ESG6Q
+        "Traditional medicines" ESG6R
+        "Modern biotechnology" ESG6S
+        "1. Immunity and vaccines" ESG6T
+        "2. Antibiotics" ESG6V
+        "3. Blood transfusions" ESG6W
+        "4. Cloning" ESG6X
+        "5. Stem cell research" ESG6Y
+        "Ethical issues" ESG6Z
+        "Legislation around stem cell research" ESG72
+        "Potential applications of cloned animals" ESG73
+        "Ethical biotechnology" ESG74
+    4.6 "The leaf as an organ" ESG75
+        "Leaf structure" ESG76
+        "Transport of substances into and out of the leaf" ESG77
+    4.7 "Summary" ESG78
+5 "Support and transport systems in plants"
+    5.1 "Overview" ESG79
+        "Introduction" ESG7B
+    5.2 "Anatomy of dicotyledonous plants" ESG7C
+        "Differences between Monocotyledons and Dicotyledons" ESG7D
+        "Root anatomy" ESG7F
+        "Stem anatomy" ESG7G
+        "Secondary growth" ESG7H
+    5.3 "Transpiration" ESG7J
+        "Factors affecting the rate of transpiration" ESG7K
+        "Measuring the rate of transpiration" ESG7M
+        "Structural adaptations of plants to reduce the rate of transpiration" ESG7N
+        "Wilting and guttation" ESG7P
+        "Wilting" ESG7Q
+        "Guttation" ESG7R
+    5.4 "Uptake of water and minerals in the roots" ESG7S
+        "Movement of water through the dicotyledonous root" ESG7T
+        "Transport of water and minerals to leaves" ESG7V
+        "Movement of manufactured food" ESG7W
+    5.5 "Summary" ESG7X
+6 "Support systems in animals"
+    6.1 "Overview" ESG7Y
+        "Introduction" ESG7Z
+    6.2 "Skeletons" ESG82
+        "The evolutionary development of the skeleton" ESG83
+        "Hydrostatic skeleton" ESG84
+        "Exoskeleton" ESG85
+        "Endoskeleton" ESG86
+    6.3 "Human skeleton" ESG87
+        "Axial skeleton" ESG88
+        "Appendicular skeleton" ESG89
+        "Functions of skeleton" ESG8B
+        "Structure of long bone" ESG8C
+    6.4 "Musculoskeletal tissues" ESG8D
+        "Bones" ESG8F
+        "Cartilage" ESG8G
+        "Joints" ESG8H
+        "Tendons and ligaments" ESG8J
+        "Antagonistic muscles" ESG8K
+        "Human locomotion" ESG8M
+    6.5 "Muscle structure and function" ESG8N
+    6.6 "Diseases" ESG8P
+        "Rickets" ESG8Q
+        "Osteoporosis" ESG8R
+        "Arthritis" ESG8S
+    6.7 "Summary" ESG8T
+7 "Transport systems in animals" 
+    7.1 "Overview" ESG8V
+        "Introduction" ESG8W
+    7.2 "Circulatory systems in animals" ESG8X
+        "Open and closed circulatory systems" ESG8Y
+        "Single and double circulation systems" ESG8Z
+        "Human circulatory systems" ESG92
+        "The heart and associated blood vessels" ESG93
+        "Major organs and systematic circulation" ESG904
+        "The cardiac cycle" ESG95
+        "Blood vessels" ESG96
+        "Comparison between arteries, veins and capillaries" ESG97
+    7.3 "Lymphatic circulatory system" ESG98
+        "Composition of the lymphatic system" ESG99
+        "Functions of the lymphatic system" ESG9B
+    7.4 "Cardiovascular diseases" ESG9C
+        "Heart attack" ESG9D
+        "Hypertension" ESG9F
+        "Hypotension" ESG9G
+        "Stroke" ESG9H
+        "Aneurysm" ESG9J
+    7.5 "Treatment of heart diseases" ESG9K
+        "Stents" ESG9M
+        "Pacemaker" ESG9N
+        "Valve replacement" ESG9P
+        "Coronory Bypass Surgery" ESG9Q
+        "Heart Transplant" ESG9R
+    7.6 "Summary" ESG9S
+8 "Biospheres to ecosystems"
+    8.1 "Overview" ESG9T
+        "Introduction" ESG9V
+    8.2 "Biosphere" ESG9W
+    8.3 "Biomes" ESG9X
+        "Aquatic biomes" ESG9Y
+        "Terrestrial biomes" ESG9Z
+        "South African biomes" ESGB2
+    8.4 "Environment" ESGB3
+    8.5 "Ecosystems" ESGB4
+        "Biotic components" ESGB5
+        "Abiotic components" ESGB6
+    8.6 "Energy flow" ESGB7
+        "Food chain" ESGB8
+        "Food pyramid" ESGB9
+        "Food web" ESGBB
+    8.7 "Nutrient cycles" ESGBC
+        "Water cycle" ESGBD
+        "Oxygen cycle" ESGBF
+        "Carbon cycle" ESGBG
+        "Nitrogen cycle" ESGBH
+    8.8 "Ecotourism" ESGBJ
+        "The attractions of touring in South Africa" ESGBK
+        "How to be a responsible ecotourist" ESGBM
+    8.9 "Summary" ESGBN
+9 "Biodiversity and classification"
+    9.1 "Overview" ESGBP
+        "Introduction" ESGBQ
+    9.2 "Biodiversity" ESGBR
+    9.3 "Classification schemes" ESGBS
+        "Classification" ESGBT
+        "History of classification" ESGBV
+        "Binomial Nomenclature" ESGBW
+        "Prokaryotes and eukaryotes" ESGBX
+    9.4 "Five kingdom system" ESGBY
+        "Kingdom Monera" ESGBZ
+        "Kingdom Protista" ESGC2
+        "Kingdom Fungi" ESGC3
+        "Kingdom Plantae" ESGC4
+        "Kingdom Animalia" ESGC5
+        "Dichotomous key" ESGBC6
+    9.5 "Summary" ESGC7
+10 "History of Life on Earth"
+    10.1 "Overview" ESGC8
+        "Introduction" ESGC9
+    10.2 "Representations of life's history" ESGCB
+        "Geological timescale" ESGCC
+        "Continental drift" ESGCD
+        "Natural selection" ESGCF
+        "Fossil formation" ESGCG
+        "Methods of dating fossils" ESGCH
+        "Deductive reasoning to understand the past" ESGCJ
+    10.3 "Life's History" ESGCK
+        "Pre-Cambrian" ESGCM
+        "Cambrian explosion" ESGCN
+        "Paleozoic era (542 to 251 million years ago)" ESGCP
+        "Mesozoic era (251 - 72 million years ago)" ESGCQ
+        "Cenozoic era (65 million years ago to present)" ESGCR
+        "The evolution of Homo Sapiens: evidence from Africa" ESGCS
+    10.4 "Mass extinctions" ESGCT
+        "Ongoing sixth mass extinction" ESGCV
+        "Causes of mass extinctions" ESGCW
+    10.5 "Impact of humans on biodiversity and environment" ESGCX
+    10.6 "Fossil tourism" ESGCY
+    10.7 "Summary" ESGCZ

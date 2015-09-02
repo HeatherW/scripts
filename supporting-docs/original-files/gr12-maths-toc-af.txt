@@ -1,0 +1,137 @@
+1 "Rye en reekse"
+    1.1 "Rekenkundige rye" EMFCK7
+        "Die algemene term vir 'n rekenkundige ry" EMFCK8
+    1.2 "Meetkundige rye" EMFCK9
+        "Example: A flu epidemic" EMFCKB
+        "Die algemene term vir 'n meetkundige ry" EMFCKC
+    1.3 "Reekse" EMFCKD
+        "Sigmanotasie" EMFCKF
+    1.4 "Eindige rekenkundige reeks" EMFCKG
+        "Algemene formule vir 'n eindige rekenkundige reeks" EMFCKH
+    1.5 "Eindige meetkundige reeks" EMFCKJ
+        "Algemene formule vir 'n eindige meetkundige reeks" EMFCKK
+    1.6 "Oneindige reeks" EMFCKM
+        "Oneindige meetkundige reeks" EMFCKN
+    1.7 "Opsomming" EMFCKP
+2 "Funksies"
+    2.1 "Hersiening" EMFCKQ
+    2.2 "Funksies en relasies" EMFCKR
+    2.3 "Inverse funksies" EMFCKS
+    2.4 "Lineêre funksies" EMFCKT
+        "Inverse van die funksie y = ax + q" EMFCKV
+    2.5 "Kwadratiese funksies" EMFCKW
+        "Inverse van die funksie y = ax^2" EMFCKX
+    2.6 "Eksponensiële funksies" EMFCKY
+        "Inverse van die funksie y = b^x" EMFCKZ 
+        "Logaritmes" EMFCM2
+        "Logaritmiese grondtalle" EMFCM3
+        "Logaritmiese wette" EMFCM4
+        "Logaritmiese en die gebruik van die sakrekenaar" EMFCM5
+        "Eksponensiële en logarimiese grafieke" EMFCM6
+        "Toepassings van logaritmes" EMFCM7
+    2.7 "Opsomming" EMFCM8
+    2.8 "Nog logaritmes vir verryking" EMFCM9
+        "Logaritmiese wette" EMFCMB
+        "Vereenvoudiging van logaritmes" EMFCMC
+        "Oplossing van logaritmiese vergelykings" EMFCMD
+        "Opsomming" EMFCMF
+3 "Finansies"
+    3.1 "Berekening van die beleggingstydperk" EMFCMG
+    3.2 "Annuïteite" EMFCMH
+    3.3 "Toekomstige waarde annuïteite" EMFCMJ
+        "Lei die formule af" EMFCMK
+        "Delgingsfondse" EMFCMM
+    3.4 "Huidige waarde annuïteite" EMFCMN
+        "Lei die formule af" EMFCMP
+    3.5 "Analise van beleggings- en leningsopsies" EMFCMQ
+        "Piramideskemas" EMFCMR
+    3.6 "Opsomming" EMFCMS
+4 "Trigonometrie"
+    4.1 "Hersiening" EMFCMT
+    4.2 "Saamgestelde hoek identiteite" EMFCMV
+        "Afleiding van cos(alpha - beta)" EMFCMW
+    4.3 "Dubbelhoek identiteite" EMFCMX
+        "Afleiding van sin 2alpha" EMFCMY
+        "Afleiding van cos 2alpha" EMFCMZ
+    4.4 "Oplos van vergelykings" EMFCN2
+        "Die algemene oplossing" EMFCN3
+    4.5 "Toepassings van trigonometriese funksies" EMFCN4
+        "Probleme in twee dimensies" EMFCN5
+        "Probleme in drie dimensies" EMFCN6
+    4.6 "Opsomming" EMFCN7
+5 "Polinome"
+    5.1 "Hersiening" EMFCN8
+        "Identifiseer polinome" EMFCN9
+        "Kwadratiese polinome" EMFCNB
+    5.2 "Kubiese polinome" EMFCNC
+    5.3 "Resstelling" EMFCND
+    5.4 "Faktorstelling" EMFCNF
+    5.5 "Los derdegraadse vergelykings op" EMFCNG
+    5.6 "Opsomming" EMFCNH
+6 "Differensiaalrekene"
+    6.1 "Limiete" EMFCNJ
+        "Die verhaal van Achilles en die skilpad" EMFCNK
+        "Limiete" EMFCNM
+        "Notasie" EMFCNN
+        "Gradiënt by 'n punt" EMFCNP
+    6.2 "Differensiasie vanuit eerste beginsels" EMFCNQ
+    6.3 'Reëls vir differensiasie' EMFCNR
+    6.4 "Vergelyking van 'n raaklyn aan 'n kurwe" EMFCNS
+    6.5 'Tweede afgeleide' EMFCNT
+    6.6 'Skets van grafieke' EMFCNV
+        'Funksies van die vorm y = ax^3 + bx^2 + cx + d' EMFCNW
+        "Afsnitte" EMFCNX
+        'Stasionêre punte' EMFCNY
+        'Skets van kubiese grafieke' EMFCNZ
+    6.7 'Toepassings van differensiële calculus' EMFCP2
+        'Optimeringsprobleme' EMFCP3
+        'Veranderingstempo' EMFCP4
+    6.8 'Opsomming' EMFCP5
+7 'Analitiese meetkunde'
+    7.1 'Hersiening' EMFCP6
+        'Vergelykings vir reguitlyne' EMFCP7
+        'Inklinasie/helling van 'n lyn' EMFCP8
+        'Ewewydige en loodregte lyne' EMFCP9
+    7.2 'Vergelyking van 'n sirkel' EMFCPB
+        'Vergelyking van 'n sirkel met die middlepunt by die oorsprung' EMFCPC
+        'Vergelyking van 'n sirkel met die middlepunt by (a;b)' EMFCPD
+    7.3 'Vergelyking van 'n raaklyn aan 'n sirkel' EMFCPF
+    7.4 'Opsomming' EMFCPG
+8 'Euklidiese meetkunde'
+    8.1 'Hersiening' EMFCPH
+        'Tipes driehoeke' EMFCPJ
+        'Kongruente driehoeke' EMFCPK
+        'Gelykvormigheid driehoeke' EMFCPM
+        'Sirkelmeetkunde' EMFCPN
+        'Koordevierhoeke' EMFCPP
+        "Raaklyne aan 'n sirkel" EMFCPQ
+        'Die middelpuntstelling' EMFCPR
+    8.2 'Verhouding en eweredigheid' EMFCPS
+    8.3 'Poligone' EMFCPT
+    8.4 'Driehoeke' EMFCPV
+        'Eweredigheid van driehoeke' EMFCPW
+    8.5 'Gelykvormigheid' EMFCPX
+        'Gelykvormigheid poligone' EMFCPY
+        'Gelykvormigheid van driehoeke' EMFCPZ
+    8.6 'Stelling van Pythagoras' EMFCQ2
+    8.7 'Opsomming' EMFCQ3
+9 'Statistiek'
+    9.1 'Hersiening' EMFCQ4
+        'Woordeskat' EMFCQ5
+        'Simmetriese en skeefgetrekte data' EMFCQ6
+    9.2 'Kurwe passing' EMFCQ7
+        'Intuïtiewe kurwe passing' EMFCQ8
+        'Lineêre regressie' EMFCQ9
+    9.3 'Korrelasie' EMFCQB
+    9.4 'Opsomming' EMFCQC
+10 'Waarskynlikheid'
+    10.1 'Hersiening' EMFCQD
+        'Terminologie' EMFCQF
+    10.2 'Identiteite' EMFCQG
+    10.3 'Hulpmiddels en tegnieke' EMFCQH
+    10.4 'Die fundamentele telbeginsel' EMFCQJ
+        'Inleiding' EMFCQK
+    10.5 'Faktoriaal notasie' EMFCQM
+    10.6 'Toepassing op telprobleme' EMFCQN
+    10.7 'Toepassing op waarskynlikheidprobleme' EMFCQP
+    10.8 'Opsomming' EMFCQQ

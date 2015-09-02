@@ -1,0 +1,187 @@
+1 "Algebraïse uitdrukkings"
+    1.1 "Inleiding" EMD2
+    1.2 "Die reële getalstelsel" EMD3
+    1.3 "Rasionale en irrasionale getalle" EMD4
+        "Desimale getalle" EMD5
+        "Skakel eindigende desimale om na rasionale getalle" EMD6
+        "Skakel repeterende desimale om in rasionale getalle" EMD7
+    1.4 "Afronding" EMD8
+    1.5 "Skatting van wortelvorme" EMD9
+    1.6 "Produkte" EMDB
+        "Vermenigvuldig 'n eenterm met 'n tweeterm" EMDC
+        "Vermenigvuldig twee tweeterme met mekaar" EMDD
+        "Vermenigvuldig 'n tweeterm met 'n drieterm" EMDF
+    1.7 "Faktorisering" EMDG
+        "Gemeenskaplike, of gemene, faktore" EMDH
+        "Verskil van twee vierkante" EMDJ
+        "Faktorisering deur groepering in pare" EMDK
+        "Faktoriseer 'n kwadratiese drieterm" EMDM
+        "Algemene prosedure vir die faktorisering van 'n drieterm" EMDN
+        "Som en verskil van twee derdemagte" EMDP
+    1.8 "Vereenvoudiging van breuke" EMDQ
+    1.9 "Hoofstuk opsomming" EMDR
+2 "Eksponente"
+    2.1 "Inleiding" EMDS
+    2.2 "Hersiening van eksponentwette" EMDT
+    2.3 "Rasionale eksponente" EMDV
+    2.4 "Eksponensiële vergelykings" EMDW
+    2.5 "Opsomming" EMDW
+3 "Getal patrone"
+    3.1 "Inleiding" EMDX
+    3.2 "Beskrywing van rye" EMDY
+        "Gemene verskil" EMDZ
+    3.3 "Hoofstuk opsomming" EMD32
+4 "Vergelykings en ongelykhede"
+    4.1 "Inleiding" EMD33
+    4.2 "Oplos van lineêre vergelykings" EMD34
+        "Metode vir die oplossing van lineêre vergelykings" EMD35
+    4.3 "Oplos van kwadratiese vergelykings" EMD36
+        "Metode vir die oplos van kwadratiese vergelykings" EMD37
+    4.4 "Oplos van gelyktydige vergelykings" EMD38
+        "Oplos deur substitusie" EMD39
+        "Los op deur eliminasie" EMD3B
+        "Los grafies op" EMD3C
+    4.5 "Woordprobleme" EMD3D
+        "Probleemoplossing strategie" EMD3F
+    4.6 "Vergelykings met letterskoëffisiënte" EMD3G
+    4.7 "Los lineêre ongelykhede op" EMD3H
+        "Intervalnotasie" EMD3J
+    4.8 "Hoofstuk opsomming" EMD3K
+5 Trigonometrie
+    5.1 "Inleiding" EMD3M
+    5.2 "Gelykvormigheid van driehoeke" EMD3N
+    5.3 "Definiëring van die trigonometriese verhoudings" EMD3P
+    5.4 "Resiprook verhoudings" EMD3Q
+    5.5 "Sakrekenaar vaardighede" EMD3R
+    5.6 "Spesiale hoeke" EMD3S
+    5.7 "Oplos van trigonometriese vergelykings" EMD3T
+        "Vind lengtes" EMD3V
+        "Vind 'n hoek" EMD3W
+    5.8 "Definieer verhoudings in die Cartesiese vlak" EMD3X
+    5.9 "Hoofstuk opsomming" EMD3Y
+6 "Funksies" 
+    6.1 "Inleiding" EMD3Z
+        "Afhanklike en onafhanklike veranderlikes" EMD42
+        "Versamelingnotasie" EMD43
+        "Intervalnotasie" EMD44
+        "Funksienotasie" EMD45
+        "Voorstellings van funksies" EMD46
+        "Gebied en terrein" EMD47
+    6.2 "Lineêre funksies" EMD48
+        "Funksies van die vorm y = x" EMD49
+        "Funksies van die vorm y = mx + c" EMD4B
+        "Ontdek die eienskappe" EMD4C
+        "Skets grafieke van die vorm y = mx + c" EMD4D
+        "Dubbel-afsnit metode" EMD4F
+        "Gradiënte en y-afsnit metode" EMD4G
+    6.3 "Kwadratiese funksies" EMD4H
+        "Funksies van die vorm y = x^2" EMD4J
+        "Funksies van die vorm y = ax^2 + q" EMD4K
+        "Ontdek die eienskappe" EMD4M
+        "Skets grafieke van die vorm y = ax^2 + q" EMD4N
+    6.4 "Hiperboliese funksies" EMD4P
+        "Funksies van die vorm y = 1/x" EMD4Q
+        "Funksies van die vorm y = a/x + q" EMD4R
+        "Ontdek die eienskappe" EMD4S
+        "Skets grafieke van die form y = a/x + q" EMD4T
+    6.5 "Eksponensiële funksies" EMD4V
+        "Funksies van die vorm y = b^x" EMD4W
+        "Funksies van die vorm y = ab^x + q" EMD4X
+        "Ontdek die eienskappe" EMD4Y
+        "Skets grafieke van die vorm y = ab^x + q" EMD4Z
+    6.6 "Trigonometriese funksies" EMD52
+        "Sinusfunksie" EMD53
+        "Funksies van die vorm y = sin theta" EMD54
+        "Funksies van die vorm y = a sin theta + q" EMD55
+        "Ontdek die eienskappe" EMD56
+        "Cosinusfunksie" EMD57
+        "Funksies van die vorm y = cos theta" EMD58
+        "Funksies van die vorm y = a cos theta + q" EMD59
+        "Ontdek die eienskappe" EMD5B
+        "Vergelyking van die grafieke van y = sin theta en y = cos theta" EMD5C
+        "Tangensfunksie" EMD5D
+        "Funksies van die vorm y = tan theta" EMD5F
+        "Funksies van die vorm y = a tan theta + q" EMD5G
+        "Ontdek die eienskappe" EMD5H
+    6.7 "Interpretasie van grafieke" EMD5J
+    6.8 "Hoofstuk opsomming" EMD5K
+7 "Euklidiese meetkunde" 
+    7.1 "Inleiding" EMD5M
+        "Hoeke" EMD5N
+        "Einskappe en notasie" EMD5P
+        "Ewewydig lyne en snydende lyne" EMD5Q
+    7.2 "Driehoeke" EMD5R
+        "Klassifikasie van driehoeke" EMD5S
+        "Kongruensie" EMD5T
+        "Gelykvormigheid" EMD5V
+        "Die stelling van Pythagoras" EMD5W
+    7.3 "Vierhoeke" EMD5X
+        "Parallelogram" EMD5Y
+        "Reghoek" EMD5Z
+        "Rombus of ruit" EMD62
+        "Vierkant" EMD63
+        "Trapesium" EMD64
+        "Vlieër" EMD65
+    7.4 "Die middelpuntstelling" EMD66
+    7.5 "Hoofstuk opsomming" EMD67
+8 "Analitiese meetkunde"
+    8.1 "Trek van figure op die Cartesiese vlak" EMD68
+    8.2 "Afstand tussen twee punte" EMD69
+    8.3 "Gradiënt van 'n lyn" EMD6B
+        "Reguitlyne" EMD6C
+        "Ewewydige en loodregte lyne" EMD6D
+        "Horisontale en vertikale lyne" EMD6F
+        "Punte op 'n lyn" EMD6G
+    8.4 "Middelpunt van 'n lyn" EMD6H
+    8.5 "Hoofstuk opsomming" EMD6J
+9 "Finansies en groei"
+    9.1 "Inleiding" EMD6K
+    9.2 "Enkelvoudige rente" EMD6M
+    9.3 "Saamgestelde rente" EMD6N
+        "Die krag van saamgestelde rente" EMD6P
+    9.4 "Berekening deur gebruik van enkelvoudige en saamgestelde rente" EMD6Q
+        "Huurkoop" EMD6R
+        "Inflasie" EMD6S
+        "Bevolkingsgroei" EMD6T
+    9.5 "Buitelandse wisselkoerse" EMD6V
+    9.6 "Hoofstuk opsomming" EMD6W
+10 "Statistiek"
+    10.1 "Versameling van data" EMD6X
+    10.2 "Maatstawwe van sentrale neiging" EMD6Y
+        "Gemiddelde" EMD6Z
+        "Mediaan" EMD72
+        "Modus" EMD73
+    10.3 "Groepering van data" EMD74
+        "Maatstawwe van sentrale neiging" EMD75
+    10.4 "Maatstawwe van verspreiding" EMD76
+        "Omvang" EMD77
+        "Persentiele" EMD78
+        "Persentiele vir gegroepeerde data" EMD79
+        "Omvang" EMD7B
+    10.5 "Vyfgetal opsomming" EMD7C
+    10.6 "Hoofstuk opsomming" EMD7D
+11 "Trigonometry"
+    11.1 "Twee-dimensionele probleme" EMD7F
+    11.2 "Hoofstuk opsomming" EMD7G
+12 "Euklidiese meetkunde"
+    12.1 "Bewyse en vermoedens" EMD7H
+    12.2 "Hoofstuk opsomming" EMD7J
+13 "Meting"
+    13.1 "Area van 'n veelhoek" EMD7K
+    13.2 "Regte prismas en silinders" EMD7M
+        "Buite-oppervlakte van prismas en silinders" EMD7N
+        "Volume van prismas en silinders" EMD7P
+    13.3 "Regte piramides, regte keëls en sfere" EMD7Q
+        "Buite-oppervlakte van piramides, keëls en sfere" EMD7R
+        "Volume van piramides, keëls en sfere" EMD7S
+    13.4 "Die effek van vermenigvuldiging met 'n faktor k" EMD7T
+    13.5 "Hoofstuk opsomming" EMD7V
+14 "Waarskynlikheid"
+    14.1 "Teoretiese waarskynlikheid" EMD7W
+    14.2 "Relatiewe frekwensie" EMD7X
+    14.3 "Venndiagramme" EMD7Y
+    14.4 "Vereniging en snyding" EMD7Z
+    14.5 "Waarskynlikheidsidentiteite" EMD82
+    14.6 "Wedersyds uitsluitende gebeurtenisse" EMD83
+    14.7 "Komplementêre gebeurtenisse" EMD84
+    14.8 "Hoofstuk opsomming" EMD85

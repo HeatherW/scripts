@@ -1,0 +1,151 @@
+1 "Getalle en getal-berekeninge"
+    1.1 "Inleiding en sleutelbegrippe" EMK2
+    1.2 "Getalformate en konvensies" EMK3
+        "Verskillende maniere om getalle voor te stel" EMK4
+        "Getalle in 'n verskeidenheid situasies" EMK5
+        "Die skryf van heelgetalle in woorde" EMK6
+        "Plektoekenning in groot getalle" EMK7
+        "Rangskik van syfers in volgorde" EMK8
+    1.3 "Bewerkings met syfers en sakrekenaarvaardighede" EMK9
+        "Skatting" EMKB
+        "Gebruik jou sakrekenaar" EMKC
+        "Die volgorde van bewerkings en hakies" EMKD
+        "Feite in verband met optelling en vermenigvuldiging om berekenings makliker te maak" EMKF
+        "Gewone breuke" EMKG
+        "Bewerkings met breuke" EMKH
+        "Desimale breuke" EMKJ
+        "Positiewe en negatiewe getalle" EMKK
+    1.4 "Vierkante, vierkantswortels en kubusse" EMKNM
+        "Vierkante" EMKPN
+        "Vierkantswortels" EMKP
+        "Derde mag getalle" EMKQ
+    1.5 "Afronding" EMKR
+        "Afronding van getalle binne sekere konteks" EMKS
+    1.6 "Verhoudings, koerse en eweredigheid" EMKT
+        "Wat is 'n verhouding?" EMKV
+        "Wat is 'n koers?" EMKW
+        "Bepaal die uitgelate nommers in verhoudings en koerse" EMKX
+        "Direkte verhouding en inverse verhouding" EMKY
+    1.7 "Persentasies" EMKZ
+        "Hoe om 'n persentasie van 'n getal te bereken" EMK32
+        "Persentasie afslag en verhogings" EMK33
+2 "Patrone, verhoudings en voorstellings"
+    2.1 "Inleiding en sleutelbegrippe" EMK35
+    2.2 "Om grafieke wat 'n storie vertel, te verstaan en sin daaruit te maak" EMK36
+        "Grafieke wat op en af gaan (toeneem en afneem)" EMK37
+        "Kontinue en diskrete grafieke" EMK38
+        "Afhanklik en onafhanklik" EMK39
+        "Raak aan die asse" EMK3B
+    2.3 "Liniêre patrone, verhoudings en grafieke" EMK3C
+        "Die stip van punte op 'n rooster" EMK3D
+        "Lineêre verwantskappe en grafieke" EMK3F
+    2.4 "Omgekeerde eweredigheidspatrone, verwantskappe en grafieke" EMK3G
+        "Inverse proportion relationships and graphs" EMK3H
+    2.5 "Vind 'n reël of formule" EMK3J
+        "Die skryf van 'n algemene formule" EMK3K
+3 "Omskakelings en tyd"
+    3.1 "Inleiding en sleutelbegrippe" EMK3N
+    3.2 "Skakel metrieke eenhede om uit jou kop" EMK3P
+        "Lengte" EMK3Q
+        "Volume" EMK3R
+        "Gewig" EMK3S
+    3.3 "Skakel die eenhede van afmeting om deur gebruik te maak van omskakelfaktore" EMK3T
+        "Kookomskakelings" EMK3V
+    3.4 "Lees en berekeninge van tyd" EMK3W
+        "Verskillende tydformate" EMK3X
+        "Omskakeling van tydeenhede" EMK3Y
+        "Berekening van tydsverloop" EMK3Z
+        "Kalendars" EMK42
+        "Roosters" EMK43
+4 "Finansiële dokumente en tariefsisteme"
+    4.1 "Inleiding en sleutelbegrippe" EMK45
+    4.2 "Finansiële dokumente" EMK46
+        "Huishoudelike rekeninge" EMK47
+        "Koop dokumente" EMK48
+    4.3 "Tariefstelsels" EMK49
+        "Munisipale tariewe" EMK4B
+        "Telefoontariewe" EMK4C
+        "Vervoertariewe" EMK4D
+5 "Meting van lengte, massa, volume en temperatuur"
+    5.1 "Inleiding en sleutelbegrippe" EMK4G
+    5.2 "Skatting en metings van lengte en afstand" EMK4H
+    5.3 "Meting van massa of gewig" EMK4J
+    5.4 "Meting van volume" EMK4K
+    5.5 "Meting en monitor van temperatuur" EMK4M
+6 "Skaal, kaarte en planne" 
+    6.1 "Inleiding en sleutelbegrippe" EMK4P
+    6.2 "Numeriese en grafiese skale" EMK4Q
+        "Inleiding tot numeriese en grafiese skale" EMK4R
+        "Die gebruik van numeriese en grafiese skale om afstand te meet" EMK4S
+        "Verstaan die voor- en nadele van elke skaaltip" EMK4T
+        "Teken 'n kaart met 'n skaal wanneer werklike dimensies verskaf word" EMK4V
+    6.3 "Kaarte, rigtings, sitplek- en vloerplanne" EMK4W
+7 "Waarskynlikheid"
+    7.1 "Inleiding en sleutelbegrippe" EMK4Y
+        "Die waarskynlikheidskaal" EMK4Z
+    7.2 "Voorspelling" EMK52
+        "Speletjies van geluk of toeval" EMK53
+    7.3 "Regverdige en onregverdige speletjies" EMK54
+    7.4 "'n Enkel en 'n gekombineerde uitkoms" EMK55
+        "'n Enkel uitkoms" EMK56
+        "Gesamentlike uitkomste" EMK57
+    7.5 "Weervoorspellings" EMK58
+8 "Persoonlike inkomste, uitgawes en begrotings"
+    8.1 "Inleiding en sleutelbegrippe" EMK5B
+    8.2 "Persoonlike inkomste en uitgawes" EMK5C
+        "Inkomste" EMK5D
+        "Uitgawes" EMK5F
+    8.3 "Persoonlike begroting, en inkomste- en uitgawefakture" EMK5G
+        "Maandelikse begroting" EMK5H
+        "Begroting vir spesifieke artikels of geleenthede" EMK5J
+    8.4 "Die verskil tussen begrotings en fakture" EMK5K
+    8.5 "Die belangrikheid van spaar" EMK5M
+        "Spaarbegroting" EMK5N
+9 "Meting van omtrek en oppervlak"
+    9.1 "Inleiding en sleutelbegrippe" EMK5Q
+    9.2 "Meting van omtrek" EMK5R
+        "Skatting en direkte meting van omtrek" EMK5S
+        "Gebruik van formules om omtrek te bereken" EMK5T
+    9.3 "Meting van oppervlak" EMK5V
+        "Die beraming van oppervlak" EMK5W
+        "Die gebruik van formules om omtrek te bereken" EMK5X
+10 "Monteringsdiagramme, vloerplanne en verpakking"
+    10.1 "Inleiding en sleutelbegrippe" EMK5Z
+    10.2 "Monteringsdiagramme" EMK62
+    10.3 "Vloerplaane" EMK63
+        "Die verstaan van vloerplan-simbole" EMK64
+        "Die verstaan van vloerplan uitleg" EMK65
+        "Hoe om met skaal te werk op vloerplanne" EMK66
+    10.4 "Verpakking en modelle" EMK67
+11 "Bankwese, rente en belasting" 
+    11.1 "Inleiding en sleutelbegrippe" EMK69
+    11.2 "Bankrekeninge en dokumente" EMK6B
+        "Bankrekeninge" EMK6C
+        "Bankdokumente" EMK6D
+        "Bankstate" EMK6F
+        "Bankkoste" EMK6G
+    11.3 "Rente" EMK6H
+        "Rentekoers" EMK6J
+        "Berekening van rentebedrae en rentekoerse" EMK6K
+    11.4 "Belasting op Toegevoegde Waarde" EMK6M
+12 "Datahantering"
+    12.1 "Inleiding en sleutelbegrippe" EMK6P
+    12.2 "Die datahantering siklus" EMK6Q
+        "Die kwessie van bevooroordeeldheid en die insameling van geldige data" EMK6R
+    12.3 "Ontwikkelingsvrae" EMK6S
+        "Die doel van die navorsing" EMK6T
+    12.4 "Data-insameling" EMK6V
+        "Verskillende manier om data te versamel" EMK6W
+        "Besluit wie om te vra" EMK6X
+        "Hoe om 'n goeie vraelys op te stel" EMK6Y
+    12.5 "Klassifiseer en organiseer data" EMK6Z
+        "Klassifiseer data" EMK72
+        "Organiseer data" EMK73
+    12.6 "Opsomming van data" EMK74
+        "Metings van sentrale tendens en metings van verspreiding" EMK75
+    12.7 "Die voorstelling van data" EMK76
+        "Sektordiagramme" EMK77
+        "Staafgrafieke/balkgrafieke" EMK78
+        "Histogramme" EMK79
+        "Lyngrafieke" EMK7B
+    12.8 'Data analisering' EMK7C

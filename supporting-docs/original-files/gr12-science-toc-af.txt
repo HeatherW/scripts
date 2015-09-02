@@ -1,0 +1,243 @@
+1 'Vaardighede vir die wetenskap'
+    1.1 'Die ontwikkeling van 'n wetenskaplike teorie' ESFSW
+        'Swaartekrag' ESFSX
+        'Termodinamika' ESFSY
+    1.2 'Wetenskaplike metode' ESFSZ
+        'Lees van instrumente' ESFT2
+        'Uitvoering van eksperimente' ESFT3
+    1.3 'Data en data-analise' ESFT4
+        'Hoe om grafieke in wetenskap te teken' ESFT5
+        'Kwalitatiewe- en kwantitatiewe analiese' ESFT6
+        'Gevolgtrekkings gebaseer op wetenskaplike getuienis' ESFT7
+        'Ontwerp van 'n model' ESFT8
+    1.4 'Laboratorium veiligheidsprosedures' ESFT9
+        'Gevaardata' ESFTB
+2 'Momentum and impulse'
+    2.1 'Inleiding' ESFTC
+    2.2 'Momentum' ESFTD
+        "Momentum as 'n vektor" ESFTF
+        "Verandering in momentum" ESFTG
+    2.3 "Hersien Newton se tweede wet" ESFTH
+    2.4 "Behoud van momentum" ESFTJ
+        "Stelsels" ESFTK
+        "Behoud van momentum" ESFTM
+        "Botsings" ESFTN
+        "Elastiese botsings" ESFTP
+        "Onelastiese botsings" ESFTQ
+    2.5 "Impuls" ESFTR
+    2.6 "Fisika in aksie: Impuls" ESFTS
+        "Lugsakke in voertuie" ESFTT
+        "Demping as beskerming in sport" ESFTV
+        "Snelheidbrekende stuitbedding vir vragmotors" ESFTW
+        "Deurvolg in sport" ESFTX
+        "Frommelsones in voertuie" ESFTY
+    2.7 "Hoofstukopsomming" ESFTZ
+3 "Vertikale projektielbeweging in een dimensie"
+    3.1 "Inleiding" ESFV2
+    3.2 "Vertikale projektielbeweging" ESFV3
+        "Beweging in 'n gravitasieveld" ESFV4
+        "Bewegingsvergelykings" ESFV5
+        "Grafieke van vertikale projektielbeweging" ESFV6
+    3.3 "Hoofstukopsomming" ESFV7
+4 "Organiese molekules"
+    4.1 "Wat is organiese molekules?" ESFV8
+    4.2 "Organiese molekulevorme" ESFV9
+        "Spesiale eienskappe van koolstof" ESFVB
+        "Voorstelling van organiese molekules" ESFVC
+        "Funksionele groepe" ESFVD
+        "Versadigde- en onversagdigde strukture" ESFVF
+        "Die koolwaterstowwe" ESFVG
+        "Die alkohole" ESFVH
+        "Alkielhaliede" ESFVJ
+        "Karboniel-bevattende verbindings" ESFVK
+        "Isomere" ESFVM
+    4.3 "IUPAC-naam en formules" ESFVN
+        "Wat is IUPAC-benaming?" ESFVP
+        "Benaming van koolwaterstowwe" ESFVQ
+        "Benaming van alkielhaliede" ESFVR
+        "Benaming van alkohole" ESFVS
+        "Benaming van karbonielverbindings" ESFVT
+    4.4 "Fiesiese eienskappe en strukture" ESFVV
+        "Fiesiese eienskappe en intermolekulêre kragte" ESFVW
+        "Fiesiese eienskappe en funksionele groepe" ESFVX
+        "Fiesiese eienskappe en kettinglengte" ESFVY
+        "Fiesiese eienskappe en vertakte groepe" ESFVZ
+    4.5 "Toepassing van organiese chemie" ESFW2
+        "Alkane as fossielbrandstowwe" ESFW3
+        "Esters" ESFW4
+    4.6 "Addisie-, eliminasie- en substitusiereaksies" ESFW5
+        "Addisiereaksies" ESFW6
+        "Eliminasiereaksie" ESFW7
+        "Substitusiereaksies" ESFW8
+    4.7 "Plastiek en polimere" ESFW9
+        "Wat is 'n polimeer?" ESFWB
+        "Hoe word polimere gevorm?" ESFWC
+        "Impak van polimere en plastiek" ESFWD
+    4.8 "Hoofstukopsomming" ESFWF
+5 "Arbeid, energie en drywing"
+    5.1 "Inleiding" ESFWG
+    5.2 "Werk" ESFWH
+        "Netto arbeid" ESFWJ
+    5.3 "Arbeid-energie-stelling" ESFWK
+        "Konserwatiewe en nie-konserwatiewe kragte" ESFWM
+    5.4 "Behoud van energie" ESFWN
+        "Nie-konserwatiewe kragte en arbeid-energie-stelling" ESFWP
+    5.5 "Krag" ESFWQ
+    5.6 "Hoofstukopsomming" ESFWR
+6 "Dopplereffek"
+    6.1 "Inleiding" ESFWS
+    6.2 "Die Dopplereffek met klank" ESFWT
+        "Geval 1: Bewegende bron, stilstaande waarnemer" ESFWV
+        "Geval 2: Bewegende waarnemer, stilstaande bron" ESFWW
+        "Ultraklank en die Doppler-effek" ESFWX
+    6.3 "Die Dopplereffek met lig" ESFWY
+        "Die toeneemde heelal" ESFWZ
+    6.4 "Hoofstukopsomming" ESFX2
+7 "Tempo en verloop van reaksie"
+    7.1 "Inleiding" ESFX3
+    7.2 "Reaksietempo's en faktore wat tempo beïnvloed" ESFX4
+        "Wat is reaksietempo?" ESFX5
+        "Reaksietempo's en botsingsteorie" ESFX6
+        "Faktore wat reaksietempo's beïnvloed" ESFX7
+    7.3 "Meet die tempo van die reaksie" ESFX8
+        "Meet die volume van die gas wat per eenheid tyd produseer is" ESFX9
+        "Neerslagsreaksies" ESFXB
+        "Verandering in kleur" ESFXC
+        "Verandering in massa" ESFXD
+    7.4 "Meganisme van reaksies en katalise" ESFXF
+        "Aktiveringsenergie" ESFXG
+        "Hoe werk katalisators?" ESFXH
+    7.5 "Hoofstukopsomming" ESFXJ
+8 "Chemical equilibrium"
+    8.1 "Wat is chemiese ekwilibrium?" ESFXK
+        "Oop en geslote sisteme" ESFXM
+        "Omkeerbare reaksies" ESFXN
+        "Dinamiese ekwilibrium" ESFXP
+    8.2 "Die ekwilibriumkonstante" ESFXQ
+        "Berekening van die ekwilibriumkonstante" ESFXR
+        "Die betekenis van Kc waardes" ESFXS
+    8.3 "Le Chatelier se beginsel" ESFXT
+        "Die effek van konsentrasie op ekwilibrium" ESFXV
+        "Die effek van temperatuur op ekwilibrium" ESFXW
+        "Die effek van druk op die ekwilibrium" ESFXX
+        "Die effek van 'n katalisator op ekwilibrium" ESFXY
+        "Faktore wat die waarde van Kc beinvloed" ESFXZ
+        "Die gebruik van Le Chatelier se beginsel" ESFY2
+        "Opsomming" ESFY3
+        "Industriële toepassings" ESFY4
+    8.4 "Hoofstukopsomming" ESFY5
+9 "Sure en basisse"
+    9.1 "Suure en basisse" ESFY6
+        "Wat is sure en basisse?" ESFY7
+        "Modelle vir sure en basisse" ESFY8
+        "Gekonjugeerde suur-basis pare" ESFY9
+        "Strek en swak sure en basisse" ESFYB
+        "Verdunde en gekonsentreede oplossings" ESFYC
+        "Ka en Kb" ESFYD
+    9.2 "Suur-basis reaksies" ESFYF
+        "Neutralisasie reaksies" ESFYG
+    9.3 "pH" ESFYH
+        "Die pH skaal" ESFYJ
+        "pH berekeninge" ESFYK
+        "Kw" ESFYM
+        "Sout hidrolise" ESFYN
+        "Indikators" ESFYP
+    9.4 "Titrasies" ESFYQ
+        "Wat is 'n tirasies?" ESFYR
+        "Titrasie berekeninge" ESFYS
+    9.5 "Gebruike van sure en basisse" ESFYT
+        "Die produksie van chloorgas" ESFYV
+        "Die chemie van hare en haarprodukte" ESFYW
+    9.6 "Hoofstukopsomming" ESFYX
+10 "Electriese stroombane"
+    10.1 "Inleiding" ESFYY
+    10.2 "Serie- en parallelle weerstandnetwerke (Hersiening)" ESFYZ
+    10.3 "Batterye en interne weerstand" ESFZ2
+    10.4 "Bepaal interne weerstand in stroombane" ESFZ3
+        "Benadering" ESFZ4
+        "Toepassings" ESFZ5
+    10.5 "Wheatstonebrug [nie eksamineerbaar nie]" ESFZ6
+    10.6 "Hoofstukopsomming" ESFZ7
+11 "Elektrodinamika"
+    11.1 "Inleiding" ESFZ8
+    11.2 "Elektriese masjiene - opwekkers en motors" ESFZ9
+        "Elektriese generators" ESFZB
+        "WS-generator" ESFZC
+        "GS-generator" ESFZD
+        "WS vs GS-generators" ESFZF
+        "Elektriese motors" ESFZG
+        "Toepassings in alledaagse lewe" ESFZH
+    11.3 "Wisselstroom" ESFZJ
+        "Stroom en spanning" ESFZK
+        "Drywing" ESFZM
+    11.4 "Hoofstukopsomming" ESFZN
+12 "Optiese verskynsels en eienskappe van materie"
+    12.1 "Inleiding" ESFZP
+    12.2 "Die foto-elektriese effek" ESFZQ
+        "Geskiedenis en verwagtinge van die foto-elektriese effek" ESFZR
+        "Betekenis van Einstein se model" ESFZS
+        "Eenhede van energie" ESFZT
+        "Gebruik van die foto-elektriese effek vergelyking" ESFZV
+        "Sonselle" ESFZW
+    12.3 "Emissie- en absorpsiespektra" ESFZX
+        "Uitstralingsspektra" ESFZY
+        "Absorpsiespektra" ESFZZ
+        "Toepassings van emissie- en absorpsiespektrums" ESF322
+    12.4 "Hoofstukopsomming" ESF323
+13 "Elektrochemiese reaksies"
+    13.1 "Hersiening van oksidasie en reduksie" ESCQX
+    13.2 "Skryf van redoks- en halfreaksies" ESCQY
+        "Redoksreaksies en halfreaksies" ESCQZ
+        "Balansering van redoksreaksies" ESCR2
+    13.3 "Galvaniese en elektrolitiese selle" ESCR3
+        "Elektrochemiese reaksies" ESCR4
+        "Galvaniese selle" ESCR5
+        "Elektrolitiese selle" ESCR6
+    13.4 "Prosesse in elektrochemiese selle" ESCR7
+        "Halfselle en halfreaksies" ESCR8
+        "Voorspellings in halfselle" ESCR9
+    13.5 "Die effekte van stroom en potensiaal op tempo en ewewig" ESCRB
+        "Stroom en reaksietempo" ESCRC
+        "Potensiaalverskil, ewewig en konsentrasie" ESCRD
+    13.6 "Standaard elektrodepotensiale" ESCRF
+        "Standaardkondisies" ESCRG
+        "Die standaard waterstofelektrode" ESCRH
+        "Standaard elektrodepotensiale" ESCRJ
+        "Toepassings van standaard elektrodepotensiale" ESCRK
+        "emk van 'n sel" ESCRM
+        "Spontaneïteit" ESCRN
+    13.7 "Toepassings van elektrochemiese" ESCRP
+        "Elektroplatering" ESCRQ
+        "Die chloor-alkali industrie" ESCRR
+        "Die ekstraksie van aluminium" ESCRS
+    13.8 "Hoofstukopsomming" ESCRT
+14 "Die chemiese industrie"
+    14.1 "Inleiding" ESF332
+    14.2 "Voedingstowwe" ESF333
+        "Die noodsaaklikheid van voedingstowwe" ESF334
+    14.3 "Kunsmisstowwe" ESF335
+        "Die rol van kunsmisstowwe" ESF336
+        "Die NPK verhouding" ESF337
+    14.4 "Die kunsmisbedryf" ESF338
+        "Die industriële vervaardiging van kunsmis" ESF339
+        "Vervaardiging van waterstof: steenkoolvergassing en stroomvorming by Sasol" ESF33B
+        "Stikstofproduksie: Fraksionele distillasie van vloeibare lug" ESF33C
+        "Vervaardiging van ammoniak: Die Haberproses" ESF33D
+        "Vervaardiging van salpetersuur: Die Ostwaldproses" ESF33F
+        "Vervaardiging van ammoniumnitraat" ESF33G
+        "Vervaardiging van ureum" ESF33H
+        "Vervaardiging van swaelsuur: Die Kontakproses" ESF33J
+        "Vervaardiging van ammoniumsulfaat" ESF33K
+        "Vervaardiging van fosforsuur en superfosfaat" ESF33M
+        "Vervaardiging van saamgestelde kunsmis: Die nitrofosfaatproses" ESF33N
+        "Voordele en nadele van anorganiese kunsmisstowwe" ESF33P
+    14.5 "Alternatiewe bronne van kunsmisstowwe" ESF33Q
+        "Organiese kunsmisstowwe" ESF33R
+        "Mis" ESF33S
+        "Guano" ESF33T
+        "Wisselbou" ESF33V
+        "Kalk" ESF33W
+        "Potas" ESF33X
+    14.6 "Misstowwe en die omgewing" ESF33Y
+        "Eutrofikasie" ESF33Z
+    14.7 "Hoofstukopsomming" ESF342

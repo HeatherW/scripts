@@ -1,0 +1,187 @@
+1 "Algebraic expressions"
+    1.1 "Introduction" EMA2
+    1.2 "The real number system" EMA3
+    1.3 "Rational and irrational numbers" EMA4
+        "Decimal numbers" EMA5
+        "Converting terminating decimals into rational numbers" EMA6
+        "Converting recurring decimals into rational numbers" EMA7
+    1.4 "Rounding off" EMA8
+    1.5 "Estimating surds" EMA9
+    1.6 "Products" EMAB
+        "Multiplying a monomial and a binomial" EMAC
+        "Multiplying two binomials" EMAD
+        "Multiplying a binomial and a trinomial" EMAF
+    1.7 "Factorisation" EMAG
+        "Common factors" EMAH
+        "Difference of two squares" EMAJ
+        "Factorising by grouping in pairs" EMAK
+        "Factorising a quadratic trinomial" EMAM
+        "General procedure for factorising a trinomial" EMAN
+        "Sum and difference of two cubes" EMAP
+    1.8 "Simplification of fractions" EMAQ
+    1.9 "Chapter summary" EMAR
+2 "Exponents" 
+    2.1 "Introduction" EMAS
+    2.2 "Revision of exponent laws" EMAT
+    2.3 "Rational exponents" EMAV
+    2.4 "Exponential equations" EMAW
+    2.5 "Summary" EMAW
+3 "Number patterns"
+    3.1 "Introduction" EMAX
+    3.2 "Describing sequences" EMAY
+        "Common difference" EMAZ
+    3.3 "Chapter summary" EMA32
+4 "Equations and inequalities" 
+    4.1 "Introduction" EMA33
+    4.2 "Solving linear equations" EMA34
+        "Method for solving linear equations" EMA35
+    4.3 "Solving quadratic equations" EMA36
+        "Method for solving quadratic equations" EMA37
+    4.4 "Solving simultaneous equations" EMA38
+        "Solving by substitution" EMA39
+        "Solving by elimination" EMA3B
+        "Solving graphically" EMA3C
+    4.5 "Word problems" EMA3D
+        "Problem solving strategy" EMA3F
+    4.6 "Literal equations" EMA3G
+    4.7 "Solving linear inequalities" EMA3H
+        "Interval notation" EMA3J
+    4.8 "Chapter summary" EMA3K
+5 "Trigonometry"
+    5.1 "Introduction" EMA3M
+    5.2 "Similarity of triangles" EMA3N
+    5.3 "Definining the trigonometric ratios" EMA3P
+    5.4 "Reciprocal ratios" EMA3Q
+    5.5 "Calculator skills" EMA3R
+    5.6 "Special angles" EMA3S
+    5.7 "Solving trigonometric equations" EMA3T
+        "Finding lengths" EMA3V
+        "Finding an angle" EMA3W
+    5.8 "Defining ratios in the Cartesian plane" EMA3X
+    5.9 "Chapter summary" EMA3Y
+6 "Functions"
+    6.1 "Introduction" EMA3Z
+        "Dependent and independent variables" EMA42
+        "Set notation" EMA43
+        "Interval notation" EMA44
+        "Function notation" EMA45
+        "Representations of functions" EMA46
+        "Domain and range" EMA47
+    6.2 "Linear functions" EMA48
+        "Functions of the form y = x" EMA49
+        "Functions of the form y = mx + c" EMA4B
+        "Discovering the characteristics" EMA4C
+        "Sketching graphs of the form y = mx + c" EMA4D
+        "Dual intercept method" EMA4F
+        "Gradient and y-intercept method" EMA4G
+    6.3 "Quadratic functions" EMA4H
+        "Functions of the form y = x^2" EMA4J
+        "Functions of the form y = ax^2 + q" EMA4K
+        "Discovering the characteristics" EMA4M
+        "Sketching graphs of the form y = ax^2 + q" EMA4N
+    6.4 "Hyperbolic functions" EMA4P
+        "Functions of the form y = 1/x" EMA4Q
+        "Functions of the form y = a/x + q" EMA4R
+        "Discovering the characteristics" EMA4S
+        "Sketching graphs of the form y = a/x + q" EMA4T
+    6.5 "Exponential functions" EMA4V
+        "Functions of the form y = b^x" EMA4W
+        "Functions of the form y = ab^x + q" EMA4X
+        "Discovering the characteristics" EMA4Y
+        "Sketching graphs of the form y = ab^x + q" EMA4Z
+    6.6 "Trigonometric functions" EMA52
+        "Sine function" EMA53
+        "Functions of the form y = sin theta" EMA54
+        "Functions of the form y = a sin theta + q" EMA55
+        "Discovering the characteristics" EMA56
+        "Cosine function" EMA57
+        "Functions of the form y = cos theta" EMA58
+        "Functions of the form y = a cos theta + q" EMA59
+        "Discovering the characteristics" EMA5B
+        "Comparison of graphs of y = sin theta and y = cos theta" EMA5C
+        "Tangent function" EMA5D
+        "Functions of the form y = tan theta" EMA5F
+        "Functions of the form y = a tan theta + q" EMA5G
+        "Discovering the characteristics" EMA5H
+    6.7 "Interpretation of graphs" EMA5J
+    6.8 "Chapter summary" EMA5K
+7 "Euclidean geometry"
+    7.1 "Introduction" EMA5M
+        "Angles" EMA5N
+        "Properties and notation" EMA5P
+        "Parallel and transversal lines" EMA5Q
+    7.2 "Triangles" EMA5R
+        "Classification of triangles" EMA5S
+        "Congruency" EMA5T
+        "Similarity" EMA5V
+        "The theorem of Pythagoras" EMA5W
+    7.3 "Quadrilaterals" EMA5X
+        "Parallelogram" EMA5Y
+        "Rectangle" EMA5Z
+        "Rhombus" EMA62
+        "Square" EMA63
+        "Trapezium" EMA64
+        "Kite" EMA65
+    7.4 "The mid-point theorem" EMA66
+    7.5 "Chapter summary" EMA67
+8 "Analytical geometry"
+    8.1 "Drawing figures on the Cartesian plane" EMA68
+    8.2 "Distance between two points" EMA69
+    8.3 "Gradient of a line" EMA6B
+        "Straight lines" EMA6C
+        "Parallel and perpendicular lines" EMA6D
+        "Horizontal and vertical lines" EMA6F
+        "Points on a line" EMA6G
+    8.4 "Mid-point of a line" EMA6H
+    8.5 "Chapter summary" EMA6J
+9 "Finance and growth"
+    9.1 "Introduction" EMA6K
+    9.2 "Simple interest" EMA6M
+    9.3 "Compound interest" EMA6N
+        "The power of compound interest" EMA6P
+    9.4 "Calculations using simple and compound interest" EMA6Q
+        "Hire purchase" EMA6R
+        "Inflation" EMA6S
+        "Population growth" EMA6T
+    9.5 "Foreign exchange rates" EMA6V
+    9.6 "Chapter summary" EMA6W
+10 "Statistics" 
+    10.1 "Collecting data" EMA6X
+    10.2 "Measures of central tendency" EMA6Y
+        "Mean" EMA6Z
+        "Median" EMA72
+        "Mode" EMA73
+    10.3 "Grouping data" EMA74
+        "Measures of central tendency" EMA75
+    10.4 "Measures of dispersion" EMA76
+        "Range" EMA77
+        "Percentiles" EMA78
+        "Percentiles for grouped data" EMA79
+        "Ranges" EMA7B
+    10.5 "Five number summary" EMA7C
+    10.6 "Chapter summary" EMA7D
+11 "Trigonometry" 
+    11.1 "Two-dimensional problems" EMA7F
+    11.2 "Chapter summary" EMA7G
+12 "Euclidean geometry"
+    12.1 "Proofs and conjectures" EMA7H
+    12.2 "Chapter summary" EMA7J
+13 "Measurements"
+    13.1 "Area of a polygon" EMA7K
+    13.2 "Right prisms and cylinders" EMA7M
+        "Surface area of prisms and cylinders" EMA7N
+        "Volume of prisms and cylinders" EMA7P
+    13.3 "Right pyramids, right cones and spheres" EMA7Q
+        "Surface area of pyramids, cones and spheres" EMA7R
+        "Volume of pyramids, cones and spheres" EMA7S
+    13.4 "The effect of multiplying a dimension by a factor of k" EMA7T
+    13.5 "Chapter summary" EMA7V
+14 "Probability"
+    14.1 "Theoretical probability" EMA7W
+    14.2 "Relative frequency" EMA7X
+    14.3 "Venn diagrams" EMA7Y
+    14.4 "Union and intersection" EMA7Z
+    14.5 "Probability identities" EMA82
+    14.6 "Mutually exclusive events" EMA83
+    14.7 "Complementary events" EMA84
+    14.8 "Chapter summary" EMA85

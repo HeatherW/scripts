@@ -1,0 +1,140 @@
+1 'Eksponente en wortels' 
+    1.1 'Hersiening' EME2
+        'Die getallestelsel' EME3
+        'Eksponentwette' EME4
+    1.2 'Rasionale eksponente en wortels' EME5
+        'Vereenvoudiging van wortelvorme' EME6
+        'Gelyksoortige en ongelyksoortige wortelvorme' EME7
+        'Eenvoudigste wortelvorme' EME8
+        'Rasionalisering van die noemers' EME9
+    1.3 'Oplos van wortelvormvergelykings' EMEB
+    1.4 'Toepassings van eksponentuitdrukkings' EMEC
+    1.5 'Opsomming' EMED
+2 'Vergelykings en ongelykhede'
+    2.1 'Hersiening' EMEF
+        'Die oplos van kwadratiese vergelykings deur faktorisering' EMEG
+        'Metode vir die oplos van kwadratiese vergelykings' EMEH
+    2.2 'Vierkantsvoltooing' EMEJ
+    2.3 'Kwadratiese vergelykings' EMEK
+    2.4 'Substitusie' EMEM
+    2.5 'Vind die vergelyking' EMEN
+    2.6 'Aard van wortels' EMEP
+        'Die diskriminant' EMEQ
+    2.7 'Kwadratiese ongelykhede' EMER
+    2.8 'Gelyktydige vergelykings' EMES
+        'Oplossing deur substitusie' EMET
+        'Los op deur middel van eliminasie' EMEV
+        'Grafiese oplossing' EMEW
+    2.9 'Woordprobleme' EMEX
+        'Probleemoplossing strategie' EMEY
+    2.10 'Opsomming' EMEZ
+3 'Getalpatrone'
+    3.1 'Hersiening' EME32
+        'Beskrywing an patrone' EME33
+        'Lineêre rye' EME34
+    3.2 'Kwadratiese rye' EME35
+    3.3 'Opsomming' EME36
+4 'Analitiese meetkunde'
+    4.1 'Hersiening' EME37
+    4.2 'Vergelyking van 'n lyn' EME38
+        'Die twee-punt vorm van die reguitlynvergelyking' EME39
+        'Die gradiënt-punt vorm van die reguitlynvergelyking' EME3B
+        'Die gradiënt-afsnit vorm van die reguitlynvergelyking' EME3C
+    4.3 'Inklinasie van 'n lyn' EME3D
+    4.4 'Ewewydige lyne' EME3F
+    4.5 'Loodregte lyne' EME3G
+    4.6 'Opsomming' EME3H
+5 'Funksies'
+    5.1 'Kwadratiese funksies' EME3J
+        'Hersiening' EME3K
+        'Funksies van die vorm y = a(x + p)^2 + q' EME3M
+    5.2 'Gemiddelde gradiënt' EME3N
+    5.3 'Hiperboliese funksies' EME3P
+        'Hersiening' EME3Q
+        'Funksies van die vorm y = a/x+p + q' EME3R
+    5.4 'Eksponensiële funksies' EME3S
+        'Hersiening' EME3T
+        'Funksies van die vorm y = ab^(x + p) + q' EME3V
+    5.5 'Sinusfunksies' EME3W
+        'Hersiening' EME3X
+        'Funksies van die vorm y = sin k theta' EME3Y
+        'Funksies van die vorm y = sin(theta + p)' EME3Z
+        'Teken van sinusgrafieke' EME42
+    5.6 'Kosinusfunksies' EME43
+        'Hersiening' EME44
+        'Funksies van die vorm y = cos k theta' EME45
+        'Funksies van die vorm y = cos(theta + p)' EME46
+        'Skets van kosinusgrafieke' EME47
+    5.7 'Tangensfunksies' EME48
+        'Hersiening' EME49
+        'Funksies van die vorm y = tan k theta' EME4B
+        'Funksies van die vorm y = tan(theta + p)' EME4C
+        'Die skets van tangensfunksies' EME4D
+    5.8 'Opsomming' EME4F
+6 'Trigonometrie'
+    6.1 'Hersiening' EME4G
+    6.2 'Trigonometriese identiteite' EME4H
+    6.3 'Reduksieformules' EME4J
+        'Afleiding van reduksieformules' EME4K
+    6.4 'Trigonometriese vergelykings' EME4M
+        'Die algemene oplossing' EME4N
+    6.5 'Area-, sinus-, en cosinusreëls' EME4P
+        'Die areareël' EME4Q
+        'Die sinusreël' EME4R
+        'Die kosinusreël' EME4S
+    6.6 'Opsomming' EME4T
+7 'Meting'
+    7.1 "Area van 'n poligoon" EME4V
+    7.2 'Regte prismas en silinders' EME4W
+        'Buite-oppervlakte van prismas en silinders' EME4X
+        'Volume van prismas en silinders' EME4Y
+    7.3 'Regte piramides, regte konusse en sfere' EME4Z
+        'Buite-oppervlakte van piramides, konusse en sfere' EME52
+        'Volume van piramides, konusse en sfere' EME53
+    7.4 'Vermenigvuldiging van 'n afmeting met 'n konstante faktor' EME54
+    7.5 'Opsomming' EME55
+8 'Euklidiese meetkunde'
+    8.1 'Hersiening' EME56
+        'Parallelogram' EME57
+        'Die middelpuntstelling' EME58
+    8.2 'Sirkelmeetkunde' EME59
+        'Stellings' EME5B
+    8.3 'Opsomming' EME5C
+9 'Finansies, groei en verval'
+    9.1 'Hersiening' EME5D
+    9.2 'Enkelvoudige en saamgestelde waardevermindering' EME5F
+        'Enkelvoudige waardevermindering' EME5G
+        'Saamgestelde depresiasie' EME5H
+        'Om i te bepaal' EME5J
+    9.3 'Tydlyne' EME5K
+    9.4 'Nominale en effektiewe rentekoerse' EME5M
+    9.5 'Opsomming' EME5N
+10 'Waarskynlikheid' 
+    10.1 'Hersiening' EME5P
+        'Terminologie' EME5Q
+        'Identitieite' EME5R
+        'Venndiagram' EME5S
+    10.2 'Afhantlike en onafhantlike gebeurtenisse' EME5T
+    10.3 'Meer Venndiagramme' EME5V
+    10.4 'Boomdiagramme' EME5W
+    10.5 'Gebeurlikheidstabelle' EME5X
+    10.5 'Opsomming' EME5Y
+11 'Statistiek'
+    11.1 'Hersiening' EME5Z
+        'Maatstawwe van sentrale neiging' EME62
+        'Maatstawwe van verspreiding (dispersie)' EME63
+        'Vyf getal opsomming' EME64
+    11.2 'Histogramme' EME65
+        'Frekwensieveelhoek' EME66
+    11.3 'Ogiewe' EME67
+    11.4 'Variansie en standaardafwyking' EME68
+        'Variansie' EME69
+        'Standaardafwyking' EME6B
+        'Interpretasie en toepassing' EME6C
+    11.5 'Simmetriese en skewe data' EME6D
+        'Simmetriese verspreidings' EME6F
+        'Skeef' EME6G
+    11.6 'Identifisering van uikskieters' EME6H
+    11.7 'Opsomming' EME6J
+12 'Lineêre programering'
+    12.1 'Inleiding' EME6K

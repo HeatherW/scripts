@@ -1,0 +1,1 @@
+{'Calculating size of object from its microscopic image': 2, 'Calculating overall magnification': 1, 'Calculating actual size given of a structure given scale bar on an image ': 3}
