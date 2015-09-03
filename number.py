@@ -4,7 +4,7 @@ This script does the following:
 2. Updates the figure and table caption tags to have a prefix of table x: or figure x:. Again only for science.
 3. Updates chapter titles, section titles and subsection titles. Chapter titles need chapter x: as  a prefix, section titles need no title shortcode and subsection titles just need the shortcode at the end.
 4. Numbers the worked examples.
-5. Numbers the exercises (to be implemented).
+5. Numbers the exercises
 '''
 
 # Import the necessary items
@@ -269,258 +269,152 @@ table_ref_dict = {"#table:momentumandimpulse:units":"2.1",
 "#tab:chemind:NPK":"14.3",
 "#tab:chemind:detailmineral":"14.4",}
 
-chapterList = [[1, "Skills for science"],
-[2, "Momentum and impulse"],
-[3, "Vertical projectile motion in one dimension"],
-[4, "Organic molecules"],
-[5, "Work, energy and power"],
-[6, "Doppler effect"],
-[7, "Rateand Extent of Reaction"],
-[8, "Chemical equilibrium"],
-[9, "Acids and bases"],
-[10, "Electric circuits"],
-[11, "Electrodynamics"],
-[12, "Optical phenomena and properties of matter"],
-[13, "Electrochemical reactions"],
-[14, "The chemical industry"],]
+chapterList = [[1, "Sequences and series"],
+[2, "Functions"],
+[3, "Finance"],
+[4, "Trigonometry"],
+[5, "Polynomials"],
+[6, "Differential calculus"],
+[7, "Analytical geometry"],
+[8, "Euclidean geometry"],
+[9, "Statistics"],
+[10, "Probability"],]
 
-sectionList = {"scESCHQ": 1.1,
-"scESCHT": 1.2,
-"scESCHX": 1.3,
-"scESCJ4": 1.4,
-"scESCJ6": 2.1,
-"scESCJ7": 2.2,
-"scESCJB": 2.3,
-"scESCJC": 2.4,
-"scESCJK": 2.5,
-"scESCJM": 2.6,
-"scESCJT": 2.7,
-"scESCJV": 3.1,
-"scESCJW": 3.2,
-"scESCK2": 3.3,
-"scESCK3": 4.1,
-"scESCK4": 4.2,
-"scESCKG": 4.3,
-"scESCKP": 4.4,
-"scESCKV": 4.5,
-"scESCKY": 4.6,
-"scESCM4": 4.7,
-"scESCM8": 4.8,
-"scESCM9": 5.1,
-"scESCMB": 5.2,
-"scESCMD": 5.3,
-"scESCMG": 5.4,
-"scESCMJ": 5.5,
-"scESCMK": 5.6,
-"scESCMM": 6.1,
-"scESCMN": 6.2,
-"scESCMS": 6.3,
-"scESCMV": 6.4,
-"scESCMW": 7.1,
-"scESCMX": 7.2,
-"scESCN3": 7.3,
-"scESCN8": 7.4,
-"scESCNC": 7.5,
-"scESCND": 8.1,
-"scESCNJ": 8.2,
-"scESCNN": 8.3,
-"scESCNY": 8.4,
-"scESCNZ": 9.1,
-"scESCP8": 9.2,
-"scESCPB": 9.3,
-"scESCPJ": 9.4,
-"scESCPN": 9.5,
-"scESCPR": 9.6,
-"scESCPS": 10.1,
-"scESCPT": 10.2,
-"scESCPV": 10.3,
-"scESCPW": 10.4,
-"scESCPZ": 10.5,
-"scESCQ2": 10.6,
-"scESCQ3": 11.1,
-"scESCQ4": 11.2,
-"scESCQC": 11.3,
-"scESCQG": 11.4,
-"scESCQH": 12.1,
-"scESCQJ": 12.2,
-"scESCQR": 12.3,
-"scESCQW": 12.4,
-"scESCQX": 13.1,
-"scESCQY": 13.2,
-"scESCR3": 13.3,
-"scESCR7": 13.4,
-"scESCRB": 13.5,
-"scESCRF": 13.6,
-"scESCRP": 13.7,
-"scESCRT": 13.8,
-"scESCRV": 14.1,
-"scESCRW": 14.2,
-"scESCRY": 14.3,
-"scESCS3": 14.4,
-"scESCSJ": 14.5,
-"scESCSS": 14.6,
-"scESCSV": 14.7,}
+sectionList = {"scEMCDP": 1.1,
+"scEMCDR": 1.2,
+"scEMCDV": 1.3,
+"scEMCDX": 1.4,
+"scEMCDZ": 1.5,
+"scEMCF3": 1.6,
+"scEMCF5": 1.7,
+"scEMCF6": 2.1,
+"scEMCF7": 2.2,
+"scEMCF8": 2.3,
+"scEMCF9": 2.4,
+"scEMCFF": 2.6,
+"scEMCFC": 2.5,
+"scEMCFQ": 2.7,
+"scEMCFR": 2.8,
+"scEMCFX": 3.1,
+"scEMCFY": 3.2,
+"scEMCFZ": 3.3,
+"scEMCG4": 3.4,
+"scEMCG6": 3.5,
+"scEMCG8": 3.6,
+"scEMCG9": 4.1,
+"scEMCGB": 4.2,
+"scEMCGD": 4.3,
+"scEMCGH": 4.4,
+"scEMCGK": 4.5,
+"scEMCGP": 4.6,
+"scEMCGQ": 5.1,
+"scEMCGT": 5.2,
+"scEMCGV": 5.3,
+"scEMCGW": 5.4,
+"scEMCGX": 5.5,
+"scEMCGY": 5.6,
+"scEMCGZ": 6.1,
+"scEMCH6": 6.2,
+"scEMCH7": 6.3,
+"scEMCH8": 6.4,
+"scEMCH9": 6.5,
+"scEMCHB": 6.6,
+"scEMCHH": 6.7,
+"scEMCHM": 6.8,
+"scEMCHN": 7.1,
+"scEMCHW": 7.3,
+"scEMCHS": 7.2,
+"scEMCHX": 7.4,
+"scEMCHY": 8.1,
+"scEMCJ8": 8.2,
+"scEMCJ9": 8.3,
+"scEMCJB": 8.4,
+"scEMCJD": 8.5,
+"scEMCJH": 8.6,
+"scEMCJJ": 8.7,
+"scEMCJK": 9.1,
+"scEMCJP": 9.2,
+"scEMCJS": 9.3,
+"scEMCJT": 9.4,
+"scEMCJV": 10.1,
+"scEMCJX": 10.2,
+"scEMCJY": 10.3,
+"scEMCJZ": 10.4,
+"scEMCK3": 10.5,
+"scEMCK4": 10.6,
+"scEMCK5": 10.7,
+"scEMCK6": 10.8,}
 
 sectionListKeys = sectionList.keys()
 
-subsectionList = ["scESCHR",
-"scESCHS",
-"scESCHV",
-"scESCHW",
-"scESCHY",
-"scESCHZ",
-"scESCJ2",
-"scESCJ3",
-"scESCJ5",
-"scESCJ8",
-"scESCJ9",
-"scESCJD",
-"scESCJF",
-"scESCJG",
-"scESCJH",
-"scESCJJ",
-"scESCJN",
-"scESCJP",
-"scESCJQ",
-"scESCJR",
-"scESCJS",
-"scESCJX",
-"scESCJY",
-"scESCJZ",
-"scESCK5",
-"scESCK6",
-"scESCK7",
-"scESCK8",
-"scESCK9",
-"scESCKB",
-"scESCKC",
-"scESCKD",
-"scESCKF",
-"scESCKH",
-"scESCKJ",
-"scESCKK",
-"scESCKM",
-"scESCKN",
-"scESCKQ",
-"scESCKR",
-"scESCKS",
-"scESCKT",
-"scESCKW",
-"scESCKX",
-"scESCKZ",
-"scESCM2",
-"scESCM3",
-"scESCM5",
-"scESCM6",
-"scESCM7",
-"scESCMC",
-"scESCMF",
-"scESCMH",
-"scESCMP",
-"scESCMQ",
-"scESCMR",
-"scESCMT",
-"scESCMY",
-"scESCMZ",
-"scESCN2",
-"scESCN4",
-"scESCN5",
-"scESCN6",
-"scESCN7",
-"scESCN9",
-"scESCNB",
-"scESCNF",
-"scESCNG",
-"scESCNH",
-"scESCNK",
-"scESCNM",
-"scESCNP",
-"scESCNQ",
-"scESCNR",
-"scESCNS",
-"scESCNT",
-"scESCNV",
-"scESCNW",
-"scESCNX",
-"scESCP2",
-"scESCP3",
-"scESCP4",
-"scESCP5",
-"scESCP6",
-"scESCP7",
-"scESCP9",
-"scESCPC",
-"scESCPD",
-"scESCPF",
-"scESCPG",
-"scESCPH",
-"scESCPK",
-"scESCPM",
-"scESCPP",
-"scESCPQ",
-"scESCPX",
-"scESCPY",
-"scESCQ5",
-"scESCQ6",
-"scESCQ7",
-"scESCQ8",
-"scESCQ9",
-"scESCQB",
-"scESCQD",
-"scESCQF",
-"scESCQK",
-"scESCQM",
-"scESCQN",
-"scESCQP",
-"scESCQQ",
-"scESCQS",
-"scESCQT",
-"scESCQV",
-"scESCQZ",
-"scESCR2",
-"scESCR4",
-"scESCR5",
-"scESCR6",
-"scESCR8",
-"scESCR9",
-"scESCRC",
-"scESCRD",
-"scESCRG",
-"scESCRH",
-"scESCRJ",
-"scESCRK",
-"scESCRM",
-"scESCRN",
-"scESCRQ",
-"scESCRR",
-"scESCRS",
-"scESCRX",
-"scESCRZ",
-"scESCS2",
-"scESCS4",
-"scESCS5",
-"scESCS6",
-"scESCS7",
-"scESCS8",
-"scESCS9",
-"scESCSB",
-"scESCSC",
-"scESCSD",
-"scESCSF",
-"scESCSG",
-"scESCSH",
-"scESCSK",
-"scESCSM",
-"scESCSN",
-"scESCSP",
-"scESCSQ",
-"scESCSR",
-"scESCST",]
+subsectionList = ["scEMCDQ",
+"scEMCDS",
+"scEMCDT",
+"scEMCDW",
+"scEMCDY",
+"scEMCF2",
+"scEMCF4",
+"scEMCFB",
+"scEMCFD",
+"scEMCFG",
+"scEMCFH",
+"scEMCFJ",
+"scEMCFK",
+"scEMCFM",
+"scEMCFN",
+"scEMCFP",
+"scEMCFS",
+"scEMCFT",
+"scEMCFV",
+"scEMCFW",
+"scEMCG2",
+"scEMCG3",
+"scEMCG5",
+"scEMCG7",
+"scEMCGC",
+"scEMCGF",
+"scEMCGG",
+"scEMCGJ",
+"scEMCGM",
+"scEMCGN",
+"scEMCGR",
+"scEMCGS",
+"scEMCH2",
+"scEMCH3",
+"scEMCH4",
+"scEMCH5",
+"scEMCHC",
+"scEMCHD",
+"scEMCHF",
+"scEMCHG",
+"scEMCHJ",
+"scEMCHK",
+"scEMCHP",
+"scEMCHQ",
+"scEMCHR",
+"scEMCHT",
+"scEMCHV",
+"scEMCHZ",
+"scEMCJ2",
+"scEMCJ3",
+"scEMCJ4",
+"scEMCJ5",
+"scEMCJ6",
+"scEMCJ7",
+"scEMCJC",
+"scEMCJF",
+"scEMCJG",
+"scEMCJM",
+"scEMCJN",
+"scEMCJQ",
+"scEMCJR",
+"scEMCJW",
+"scEMCK2",]
 
-wex_dictionary = {'Identifying polymers': 37, 'Describing projectile motion': 6, 'NPK ratios': 2, 'The photoelectric effect using silver': 1, 'Writing expressions for ': 1, 'Concentration-time graphs': 10, 'Internal resistance in circuit with resistors in series': 7, 'Graphs of equilibrium': 12, 'Conservation of momentum': 10, 'Internal resistance and resistors in parallel': 8, "Ohm's Law, parallel network of resistors ": 5, 'Calculating work done on a box pulled at an angle.': 3, 'Interpreting velocity graphs': 7, 'Laptop transformer': 1, 'Equilibrium constant calculations': 7, 'Sliding up a slope [credit: OpenStax College Physics]': 10, 'Analysing a force graph': 17, 'Identifying types of polymerisation reactions': 39, 'Impulse and change in momentum': 15, 'A borehole': 14, 'Power in series and parallel networks of resistors': 9, 'Another elastic collision': 12, 'Determining starting materials of esters': 33, 'Calculating ': 5, 'Sliding footballer [credit: OpenStax College Physics]': 9, 'Laptop transformer power': 3, 'Naming carbonyl compounds': 28, ' [NSC 2011 Paper 1]': 3, 'Change in momentum': 6, 'Absorption': 4, 'An inelastic collision': 14, 'Block on an inclined plane [credit: OpenStax College]': 8, 'Work-energy theorem 2': 7, 'Approach 2, calculating the net force': 5, 'Naming the alcohols': 17, 'Work-energy theorem': 6, 'Reactions at the anode and cathode': 5, 'pH calculations': 12, 'Naming the alkenes': 8, 'Drawing graphs of projectile motion': 4, 'Impulsive cricketers': 16, 'Titration calculations': 14, 'Calculating the total momentum of a system': 7, 'Car chase [Excerpt from NSC 2011 Paper 1]': 18, 'Conjugate acid-base pairs': 1, 'Moving observer': 2, 'Determining ester names': 32, 'Naming carboxylic acids': 24, 'Naming esters': 26, 'Naming the haloalkanes': 14, 'Motors and generators [NSC 2011 Paper 1]': 4, 'Comparing physical properties': 29, 'Balancing redox reactions in an acid medium': 2, 'Momentum of a soccer ball': 1, 'Internal resistance and headlamps [NSC 2011 Paper 1]': 10,
-'Calculating reagent concentration': 2, 'Calculating work on the car while braking': 2, 'Balancing redox reactions in an alkaline medium': 3, 'Equilibrium calculations': 4, 'Understanding galvanic cells': 4, 'Camera battery charger': 2, 'Stair climb': 13, 'Height of a projectile': 2, 'Ambulance siren': 1, 'An elastic collision': 11, 'Internal resistance': 6, 'NPK ratios in other countries': 3, 'Naming aldehydes': 18, 'Power calculation 2': 12, 'Power calculation 1': 11, 'Determining spontaneity': 13, 'Hot air balloon [NSC 2011 Paper 1]': 8, 'Calculating the EMF of a cell': 11, "Ohm's Law, all components in series": 2, "Using Le Chatelier's principle": 6, 'Balancing redox reactions': 1, 'Colliding billiard balls': 13, 'Naming ketones': 19, 'Balancing equations': 31, 'Approach 1, calculating the net work on a car': 4, 'Analysing graphs of projectile motion': 5, "Ohm's Law, series circuit": 3, 'Naming the alkynes': 11, 'Determining overall reactions': 9, 'Wheatstone bridge': 11, "Ohm's Law [NSC 2011 Paper 1]": 1, 'The photoelectric effect using gold': 2, 'Calculating work on a car when speeding up.': 1, "Ohm's Law, resistors connected in parallel": 4, 'Using the table of standard electrode potentials': 8, 'Chemical equilibrium': 11, 'Momentum of a cricket ball': 2, 'Momentum of the Moon': 3, 'Determining equations from starting materials': 10, 'Calculating concentration': 5, 'Acids and bases': 3, 'Equal displacements [attribution: Sunil Kumar Singh]': 3, 'Naming the alkanes': 5, 'Doppler effect [NSC 2011 Paper 1]': 3, 'Projectile motion': 1, 'Change in Momentum': 4, 'Identifying monomers': 36, 'Rate-time graphs': 8, 'Reaction rates': 2}
+wex_dictionary = {'Inverses - domain, range and restrictions': 8, 'Further arrangement of outcomes without repetition': 14, 'Proportion theorem': 3, 'Determining the value of ': 1, 'Double angle identities': 8, 'Logarithmic form to exponential form': 11, 'Revision': 1, 'Similar polygons': 4, 'Intuitive curve fitting': 4, 'Probability of word arrangements': 20, 'Using a calculator: inverse logarithm function': 16, 'Population growth': 21, 'Gradient at a point': 6, 'Exponential function': 3, 'Choices without repetition': 10, 'Inclination of a straight line': 2, 'Problems in three dimensions - height of a building': 16, 'Finding the remainder': 7, 'Using the SHARP EL-531VH calculator': 7, 'Compound angle formulae': 6, 'Derivation of ': 4, 'Finding stationary points': 18, 'Flu epidemic': 3, 'Using the quadratic formula': 2, 'Fitting by hand': 5, 'Finding the general solution': 9, 'Calculating the monthly payments': 9, 'Personal Identification Numbers (PINs)': 18, 'Factorising cubic polynomials': 12, 'Solving logarithmic equations': 26, 'Graphs of the inverse of ': 18, 'Graphs of ': 19, 'Sum to infinity': 17, 'Linear function': 1, 'Five number summary': 1, 'Long division': 4, 'Variance and standard deviation': 2, 'Finding the second derivative': 16, 'Solving quadratic equations by completing the square': 3, 'The number of letter arrangements for a longer word': 17, 'Differentiation from first principles': 10, 'Present value annuities': 8, 'Inverses - average gradient': 9, 'Arrangement of objects with constraints': 15, 'Equation of a circle with centre at the origin': 6, 'Determining the value of an investment': 6, 'Inverse of the function ': 6, 'Limit notation': 1, 'The arrangement of outcomes without repetition': 12, 'Two-way contingency tables': 9, 'Independent and dependent events': 3, 'Equation of a tangent to a circle': 15, 'Sum of a geometric series': 13, 'Tree diagrams': 8, 'Analysing loan options': 13, 'Inverses - domain, range and intercepts': 5, 'Properties of polygons': 1, 'Theorem of Pythagoras': 8, 'Using the CASIO ':8,
+'Determining the intercepts': 17, 'Using a calculator: logarithm function': 15, 'Arithmetic sequence': 1, 'Using the remainder to solve for an unknown variable': 8, 'Choices with repetition': 11, 'Using a calculator: change of base': 17, 'Method of least squares by hand': 6, 'Proportionality of triangles': 2, 'Solving cubic equations': 14, 'Exponential form to logarithmic form': 10, 'Rate of change': 23, 'Sigma notation': 6, 'Interpreting graphs': 20, 'Applying the logarithm definition': 1, 'The addition rule for ': 4, 'Factor theorem': 10, 'Graph of ': 20, 'Limits': 3, 'General formula for the sum of an arithmetic sequence': 7, 'The addition rule': 5, 'Future value annuities': 4, 'Solving quadratic equations using factorisation': 1, 'Optimisation problems': 22, 'Using the sum to infinity to convert recurring decimals to fractions': 16, 'Analysing investment opportunities': 12, 'Parallel lines': 3, 'Sinking funds': 7, 'Applying the logarithmic law ': 23, 'Simplification of logarithms': 24, 'Rules of differentiation': 12, 'Quadratic function': 2, 'Synthetic division': 6, 'Sum to infinity of a geometric series': 15, 'Special logarithmic values': 2, 'Skewed and symmetric data': 3, 'Sum of an arithmetic sequence if first and last terms are known': 8, 'Finding ': 10, 'Arrangement of letters': 16, 'Number plates': 19, 'Trigonometric equations': 12, 'Quadratic sequence': 2, 'Repayment periods': 11, 'The correlation coefficient': 9, 'Problem in two dimensions': 14, 'Area, sine and cosine rule': 13, 'Venn diagrams': 7, 'Problems in three dimensions - height of a pole': 15, 'Finding the equation of a normal to a curve': 15, 'Sketching cubic graphs': 19, 'Factorial notation': 13, 'The complementary rule': 6, 'Dependent and independent events': 1, 'Finding the equation of a tangent to a curve': 14, 'Calculating the outstanding balance of a loan': 10, 'Duration of investments': 2, 'Similarity of triangles': 7, 'Equation of a circle with centre at ': 11}
 
-# ok, now to try the really tricksy bit: getting the right bits of the a tag that we want.
+# number the figure and table references
 def fig_ref_fix(xml):
     '''current code is <a href="blah" data-class="InternalLink">blah</a>. We want this to become <a href="blah" data-class="InternalLink">figure x</a> or table x if we are doing the tables'''
     for a in xml.findall('.//a'):
@@ -626,51 +520,78 @@ def wex_number(xml):
 
 
 # number the exerices
-#def exercise_number(xml):
-    #'''
-    #Number the exercises using ??.
-    #Still deciding where to put the number.
-    #Exercises currently are <div class="section"><h2 class="title" id="toc-id-11">Exercises</h2>
-    #'''
-    #file_counter = 1  # set a file counter equal to 1
-    #file_number = file_name[:2]  # set a file number equal to the first two chars of the file name
-    #try:
-        #if file_counter == int(file_number): # is the counter equal to the integer value of the file number?
-            #exercise_counter = 1  # set an exercise counter equal to 1
-            #for div in xml.findall('.//div[@class]'):  # find all divs with classes
-                #title = div.find('.//h2')
-                #if title != None:
-                    #if title.text == 'Exercises':  # now find just the exercises
-                        #span_code = etree.Element('span')  # make a span
-                        #span_code.set('class', 'exercise_header')  # set the class of the span
-                        #span_code.text = 'Exercise {}'.format(exercise_counter)  # add the counter as text
-                        #title.insert(0, span_code)  #append the exercise counter after the title
-                        #exercise_counter += 1  # increment the exercise counter
-        #else:
-            #file_counter += 1  # increment the file counter
-        ##continue
-    #except:
-        #pass
+def exercise_number(xml):
+    '''
+    Number the exercises using ??.
+    Still deciding where to put the number.
+    Exercises currently are <div class="section"><h2 class="title" id="toc-id-11">Exercises</h2>
+    This part of the script gets complicated and I am not 100% sure why each bit works
+    '''
+    global exercise_counter  # danger!
+    for div in xml.findall('.//div[@class]'):  # find all divs with classes
+        title = div.find('.//h2')  # find the title
+        ps = div.find('.//div[@class]')  # find the problemset
+        if ps != None and ps.attrib['class'] == 'problemset':  # verify that we do have a problemset
+            if title != None and title.text == 'Exercises':  # now find just the exercises
+                span_code = etree.Element('span')  # make a span
+                span_code.set('class', 'exerciseTitle')  # set the class of the span
+                span_code.text = 'Exercise {}.{}'.format(file_number, exercise_counter)  # add the counter as text along with the file number
+                ps.insert(0, span_code)  # append the exercise counter after the initial problemset
+                # to change where span is inserted find the index, see here: http://stackoverflow.com/questions/7474972/python-lxml-append-element-after-another-element
+                exercise_counter += 1  # if I have this correctly this only affects the local instance of the counter
+                span_end = etree.Element('span')  # trying to add the bit about practice
+                span_end.set('class', 'practiceInfo')  # set the class of the span
+                practice_link = etree.SubElement(span_end, 'a')  # make a link
+                span_end.text = 'For more exercises, visit '  # change to science for the science one
+                practice_link.set('href', 'http://www.everythingmaths.co.za')  # set the class of the link
+                practice_link.text = 'www.everythingmaths.co.za'  # set the text of the link
+                practice_link.tail = ' and click on "Practice Maths"'  # add a tail to the link
+                ps.append(span_end)  # add it to the end of the problemset
+    return xml
 
 # Put it all together
-path = '/home/heather/Desktop/books/physical-sciences-12/english/build/xhtml'
-#path = '/home/heather/Desktop/books/mathematics-12/english/build/xhtml/'
+#path = '/home/heather/Desktop/books/physical-sciences-12/english/build/xhtml'
+path = '/home/heather/Desktop/books/mathematics-12/english/build/xhtml/'
 #path = '/home/heather/Desktop/books/scripts/test-files'
 
-for file_name in os.listdir(path):
+fileList = os.listdir(path)
+fileList.sort()
+
+file_counter = 1  # set a file counter
+exercise_counter = 1  # set an exercise counter
+
+for file_name in fileList:
     full_file_name = '{}/{}'.format(path, file_name)
 
     # Skip directories
     if os.path.isdir(full_file_name):
         continue
 
-    fileText = None
+    if file_name[0] not in ['0', '1', '2']:  # we need to ignore anything that does not start with a number
+        continue
 
     xml = etree.parse(full_file_name, etree.HTMLParser())
+
+    title_exercise = xml.findall('.//h2')  # trying to find h2's in the file
+
+    file_number = int(file_name[:2])  # set a file number
+
+    random_number = 0  # only way I could think of to do this
+    for i in title_exercise:  # find out if there is Exercises in the file
+        if i.text == 'Exercises':
+            random_number += 1
+    if random_number != 0:  # we did find Exercises so now we can play with the counters
+        if file_counter != file_number:  # if not then we must increment the file counter and reset the exercise counter
+            file_counter += 1
+            exercise_counter = 1
+    
+    fileText = None
+
     #xml = fig_ref_fix(xml)
     #xml = fig_caption(xml)
-    #xml = chapter_section_number(xml)
-    #xml = wex_number(xml)
+    xml = chapter_section_number(xml)
+    xml = wex_number(xml)
+    xml = exercise_number(xml)
     
     fileText = etree.tostring(xml, pretty_print=True)
 
