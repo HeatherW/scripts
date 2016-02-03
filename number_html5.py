@@ -16,8 +16,8 @@ from lxml import etree
 #path = '/home/heather/Desktop/books/mathematics-10/afrikaans/build/epubs/maths10/OPS/xhtml/maths10'
 path = '/home/heather/Desktop/books/scripts/test-files/html5_test'
 #path = '/home/heather/Desktop/books/grade-10-mathslit-latex/afrikaans/build/epubs/maths-lit10v2/OPS/xhtml/maths-lit10v2'
-fileList = os.listdir(path)
-fileList.sort()
+file_list = os.listdir(path)
+file_list.sort()
 
 section_counter = 1
 figure_counter = 1
@@ -27,7 +27,7 @@ exercise_counter = 1
 table_dictionary = {}
 figure_dictionary = {}
 
-for file_name in fileList:
+for file_name in file_list:
     full_file_name = '{}/{}'.format(path, file_name)
     # Skip directories
     if os.path.isdir(full_file_name):
