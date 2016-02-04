@@ -71,12 +71,9 @@ for file_name in file_list:
                     continue
             if section.attrib['class'] == 'worked_example':  # worked examples
                 title = section.find('h2')
-                try:
-                    if title is not None:
-                        title.text = 'Worked example {}: {}'.format(worked_example_counter, title.text)
-                        worked_example_counter += 1
-                except UnicodeEncodeError:
-                    continue
+                if title is not None:
+                    title.text = 'Worked example ' + str(worked_example_counter) + ':' + title.text  # while .format or other string concatenation methods might work better this handles unicode errors better
+                    worked_example_counter += 1
             if section.attrib['class'] == 'exercises':  # exercises
                 try:
                     problem_set = section.find('.//div[@class]')
@@ -105,7 +102,11 @@ for file_name in file_list:
     for figure in figures:
         caption = figure.find('.//figcaption')
         if caption is not None and figure.attrib['id'] is not None:
-            caption.text = 'Figure {}.{}: {}'.format(file_number, figure_counter, caption.text)
+            if caption.find('.//p') is not None:
+                para = caption.find('.//p')
+                para.text = 'Figure {}.{}: {}'.format(file_number, figure_counter, para.text)
+            else:
+                caption_text.text = 'Figure {}.{}: {}'.format(file_number, figure_counter, caption.text)
             figure_dictionary[figure.attrib['id']] = str(file_number) + '.' + str(figure_counter)
             figure_counter += 1
 
@@ -116,7 +117,11 @@ for file_name in file_list:
                 if div.attrib['id'] is not None and div.attrib['class'] == 'FigureTable':
                     caption = div.find('.//div[@caption]')
                     if caption is not None:
-                        caption.text = 'Table {}.{}: {}'.format(file_number, table_counter, caption.text)
+                        if caption.find('.//p') is not None:
+                            para = caption.find('.//p')
+                            para.text = 'Table {}.{}: {}'.format(file_number, table_counter, para.text)
+                        else:
+                            caption.text = 'Table {}.{}: {}'.format(file_number, table_counter, caption.text)
                         table_dictionary[div.attrib['id']] = str(file_number) + '.' + str(table_counter)
                         table_counter += 1
         except KeyError:
